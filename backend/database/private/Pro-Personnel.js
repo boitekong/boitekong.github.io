@@ -3,6 +3,20 @@ export const data  = {
   "title": "pro-personnel",
   "blogPosts": [
     {
+      "jobTitle": "Sales Representative",
+      "startDate": "2023-10-18 - 2023-11-17",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Wholesales",
+      "location": {
+        "city": ", Tshwane (Pretoria)",
+        "region": "Gauteng"
+      },
+      "details": "Job Responsibilities: As a Sales Representative, you'll play a pivotal role in the organization. Your responsibilities will include, but are not limited to:Following up on Quotes and Emails: Promptly respond to customer inquiries, providing the information and support they need to make informed purchasing decisions.Daily Phone Calls: Engage with our existing customers to nurture relationships and ensure their needs are met. Be prepared to make cold calls to potential new customers, introducing them to our products and services.In-Store Assistance: Provide in-store support to walk-in customers, offering product information, assistance, and a memorable shopping experience.Phone Support: Assist customers who call in, addressing their queries, guiding them through the purchasing process, and resolving issues.Computer Literacy: Proficiency in Microsoft Excel, Word, Outlook, and Pastel is a must. You'll use these tools for order processing, customer communications, and reporting.Qualifications and Skills:\n\nValid driver's license.\nSales background is advantageous.\nComputer literacy in Excel, Word, Outlook, and Pastel.\nExceptional communication and interpersonal skills.\nSelf-motivated with a strong work ethic.\nAbility to work independently and as part of a team.\nExcellent time management and organizational skills.\n",
+      "contact": "Rene",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002303-R",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
       "jobTitle": "Front End Loader",
       "startDate": "2023-10-16 - 2023-11-15",
       "vacancyType": "Permanent",
