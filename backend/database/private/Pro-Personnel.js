@@ -171,6 +171,20 @@ export const data  = {
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
+      "jobTitle": "Internal Sales",
+      "startDate": "2023-10-01 - 2024-01-31",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Sales",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "The successful candidate will have to meet the following minimum requirements:\n&nbsp;\nMinimum Qualifications\n\nGrade 12\nCandidates with subjects related to Arts will be an added advantage\n\nMinimum Experience of the Job\n\nCandidate with sales and customer satisfaction experience will be an added advantage\n\nRelevant Training Required\n\nCandidates must be computer literate in at least MS Word, Excel and Email\nExperience in programs such as Kerridge and Ulti Sales will be an added advantage&nbsp;\n\nWorking hours:\nMonday to Friday 07:45 - 17:00\nSaturdays: 07:45 - 13:00\nOne Saturday per month off&nbsp;\n&nbsp;",
+      "contact": "Welma Helberg Nel",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB000344-WHN",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
       "jobTitle": "Group CSI Officer",
       "startDate": "2023-09-21 - 2023-10-21",
       "vacancyType": "Permanent",
