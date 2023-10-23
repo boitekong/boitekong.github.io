@@ -3,6 +3,48 @@ export const data  = {
   "title": "pro-personnel",
   "blogPosts": [
     {
+      "jobTitle": "Accountant",
+      "startDate": "2023-10-20 - 2023-11-20",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Finance",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "The ideal candidate needs to have the following:* At least 5 - 10 years working experience as an Accountant* Must have a Financial Degree with SAIPA with completed articles.* Specifications:&nbsp;- Data processing up to trial balance- Preparing financial statements- SARS admissions* Computer knowledge in:- Pastel, Excel, Word and Draftworx",
+      "contact": "Yolanda Day-Garden",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002251-YDG",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
+      "jobTitle": "Sales Rep",
+      "startDate": "2023-10-20 - 2023-11-20",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Sales",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "The ideal candidate needs to have the following requirements in order to apply for this position:* Valid driver's license* Own reliable transport* Previous sales experience (electrical background/experience advantage)* Grade 12 certificate* Must know the Rustenburg and mining areas very well.",
+      "contact": "Yolanda Day-Garden",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002276-YDG",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
+      "jobTitle": "Safety Officer",
+      "startDate": "2023-10-20 - 2023-11-20",
+      "vacancyType": "Contractor",
+      "jobSpecFields": "SHEQ",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "The candidate needs to have the following requirements:* ISO experience ESSENTIAL* Comsoc 1 &amp; 2* Mining &amp; Engineering experience essential* Candidate to start as soon as possible.* Valid driver's license",
+      "contact": "Yolanda Day-Garden",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002289-YDG",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
       "jobTitle": "Sales Representative",
       "startDate": "2023-10-18 - 2023-11-17",
       "vacancyType": "Permanent",
@@ -31,6 +73,20 @@ export const data  = {
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
+      "jobTitle": "Office Admin - Interior Design",
+      "startDate": "2023-10-13 - 2023-11-12",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Other",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "Relevant requirements are:&nbsp;Sound sales experience&nbsp;Strong administration skills&nbsp;Valid driver’s license&nbsp;Computer literate (MS Office Suite)&nbsp;Willingness to learn and develop within the companyTraining will be provided to candidateSalary will be discussed on interviewGeneral duties will include, but are not limited to:&nbsp;Visiting client’s houses for consultations and quotes on&nbsp;interior layout and design options&nbsp;Planning and overseeing workers with installation of&nbsp;blinds, curtains, wallpaper, including quality control&nbsp;Managing stock levels and ordering of material and stock&nbsp;Great people management skills to oversee production&nbsp;line and stock being made&nbsp;Overseeing workers in workshop&nbsp;Responsible to send info to website supplier for updating&nbsp;website, Social Media etc.",
+      "contact": "Rene",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002297-R",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
       "jobTitle": "Civil Supervisor",
       "startDate": "2023-10-13 - 2023-11-12",
       "vacancyType": "Permanent",
@@ -56,20 +112,6 @@ export const data  = {
       "details": "Package:* R15 000* 13th Cheque* Commission* 50% medical aid (Discovery) after 3 Months ProbationThe successful candidate must meet the following requirements:* Retail Experience will be an advantage* 3 - 5 Years Experience* A + &amp; N + Qualification* MCSE or MCP Qualified* Valid Drivers License&nbsp;* Own Vehicle&nbsp;* Must have an outgoing personality",
       "contact": "Michelle",
       "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002301-Du+To",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Office Admin - Interior Design",
-      "startDate": "2023-10-13 - 2023-11-12",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Other",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Relevant requirements are:&nbsp;Sound sales experience&nbsp;Strong administration skills&nbsp;Valid driver’s license&nbsp;Computer literate (MS Office Suite)&nbsp;Willingness to learn and develop within the companyTraining will be provided to candidateSalary will be discussed on interviewGeneral duties will include, but are not limited to:&nbsp;Visiting client’s houses for consultations and quotes on&nbsp;interior layout and design options&nbsp;Planning and overseeing workers with installation of&nbsp;blinds, curtains, wallpaper, including quality control&nbsp;Managing stock levels and ordering of material and stock&nbsp;Great people management skills to oversee production&nbsp;line and stock being made&nbsp;Overseeing workers in workshop&nbsp;Responsible to send info to website supplier for updating&nbsp;website, Social Media etc.",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002297-R",
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
@@ -129,20 +171,6 @@ export const data  = {
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
-      "jobTitle": "Safety Officer",
-      "startDate": "2023-10-05 - 2023-11-06",
-      "vacancyType": "Contractor",
-      "jobSpecFields": "SHEQ",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The candidate needs to have the following requirements:* ISO experience ESSENTIAL* Comsoc 1 &amp; 2* Mining &amp; Engineering experience essential* Candidate to start as soon as possible.* Valid drivers license",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002289-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
       "jobTitle": "ADT Operator ( Articulated Dump Truck)",
       "startDate": "2023-10-05 - 2023-11-07",
       "vacancyType": "Contractor",
@@ -185,132 +213,6 @@ export const data  = {
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
-      "jobTitle": "Group CSI Officer",
-      "startDate": "2023-09-21 - 2023-10-21",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "FMCG",
-      "location": {
-        "city": ", JHB - Central",
-        "region": "Gauteng"
-      },
-      "details": "Role looking after the community service initiatives for the business.Responsibilities:* Community driven projects are managed and also followed up, charity events, hospice clinic management and drive, managing the various charity organization donations and support functionsRequirements:* Person must have a suitable marketing qualification and or degree* Should be flexible and willing to travel* Must have a valid driver's license and own reliable transport.Reporting structure:* The role will be reporting to into the IT Directors as the function's leader within the Head Office function",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002279-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Senior Payroll Administrator",
-      "startDate": "2023-09-21 - 2023-10-21",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Finance",
-      "location": {
-        "city": ", JHB - Central",
-        "region": "Gauteng"
-      },
-      "details": "Key responsibilities:* Understand the importance of revenue, productively, chargeability and the employees pay and ensuring accuracy in processing of the payrolls with HR administrators and financial support.* Supervise and execute routine admin activities (monthly) with accurate data and payroll capturing workflow leave management, benefit admin, and other payroll related duties.* Process monthly and yearly calendar of payroll processing* Computer hours worked* Process all changes to payroll* Ensure all payments are completed* Provide new employees with nessecary training on the payroll system&nbsp;Technical Expertise:* Liaise with tax authorities* Use specific software programs (payroll system)Team based Responsibilities.* Inputting payroll onto system* Support tax officer&nbsp;* Assists senior team membersRequirements:* Person who is willing to get involved at the Store Level* Experience leading and coordinate a payroll function withing the FMCG organization* Understand the BCEA and LRA in relation to the sectoral determination Act 9, wholesale and retail sector, COIDA and Unemployment Act* Minimum 5-10 years working experience on a payroll system related to Psiber or sages HR Premier System* Excel skills is required* Must have reliable transport",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002280-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Procurement Superintendent – Commodities",
-      "startDate": "2023-09-21 - 2023-10-21",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Mining",
-      "location": {
-        "city": ", Sandton",
-        "region": "Gauteng"
-      },
-      "details": "Requirements:Minimum Qualifications:\n\nA degree or National Diploma in Commerce, Law, Engineering, or Supply Chain Management.\n\nExperience:\n\nA minimum of 6 years of relevant experience, with a preference for at least 2 years of managerial experience.\n\nResponsibilities:Safety, Health, Environment, and Quality (SHEQ):\n\nIdentify and assess risk exposures.\nApply risk mitigation and control measures.\nEnsure SHEQ compliance within the Section.\nUtilize the Integrated Management System (IMS) for SHEQ reporting.\n\nPeople Management:\n\nCultivate an enabling work culture.\nMaintain labor stability and minimize turnover.\nAlign labor complement with the budget.\nAchieve HDSA/Female targets.\nManage performance against targets and competencies.\nImplement Individual Development Plans (IDPs) linked to performance.\nConduct quarterly career discussions.\nEnforce discipline and address issues such as absenteeism and misconduct.\nProvide coaching and counseling to improve performance.\nConduct recruitment interviews.\n\nCustomer Relations:\n\nFoster and enhance relationships with key stakeholders.\nEnsure satisfaction among customers and suppliers.\nInteract with customers to understand operational concerns.\nEstablish and maintain effective communication channels between customers and suppliers.\nResolve customer queries and complaints.\n\nBusiness Processes:Category Management:\n\nManage all procurement-related activities within the assigned commodity category.\nImplement strategic sourcing initiatives to reduce Total Cost of Ownership.\nIdentify, implement, and maintain relevant commodity contracts.\nAchieve targeted cost savings through effective vendor negotiation.\nDevelop and maintain expert knowledge of supply markets, competitors, and innovations.\nFacilitate procurement change initiatives to enhance business performance.\n\nVendor Management:\n\nOversee vendor rationalization strategy within the assigned category.\nManage vendor selection, compliance, and performance.\n\nStakeholder Management:\n\nBuild strong relationships with both internal and external customers to enhance their experience.\n\nContract Management:\n\nManage all contracts within the assigned category throughout their lifecycle.\nHandle terminations, renewals, extensions, and re-assignments.\nIdentify and manage risks in collaboration with the cross-functional contracting team (Finance, Legal, Business Units, Maintenance Engineering).\n\nInnovation:\n\nIdentify innovative procurement solutions that drive efficiency within the organization.\n\nManagement Support:\n\nConduct procurement analyses and reporting to assist management in tracking and achieving departmental targets.\nProvide mentorship to Procurement Specialists and Contract Practitioners.\n\nGrowth:\n\nDrive continuous improvement through operational excellence.\nIdentify opportunities for improvements within the Procurement pipeline.\nIncrease BEE (Black Economic Empowerment) spend.\nInitiate Enterprise Development and Preferential Procurement opportunities.\n\nShareholder Value:\n\nManage the Section's costs.\nEnsure compliance with Financial Policies and Procedures.\nProtect company assets.\nReduce Total Cost of Ownership (TCO) and establish a competitive advantage through proactive procurement.\nDeliver auditable benefits.\n\nBehavioral Competencies:\n\nSafety Leadership\nInnovation\nLeadership\nPlanning, Organizing &amp; Control\nResults Orientation\nProblem Solving &amp; Decision Making\nAligning Performance for Success\nCommunication\nChange Leadership\nBuilding Strong Teams\nBusiness Acumen\n\nWorkplace Competencies:\n\nSkills: Proficiency in Microsoft programs and Systems like IMS, EBMS, SAP, COUPA, MES\nKnowledge: Understanding of legal contracts and Contract Management, market dynamics within the assigned commodity category, Supply Chain Management, Policies and Procedures, Systems Analysis, Mathematics, Mining Charter, B-BBEE Act, and the Code of Good Practice.\n",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002281-R",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Program Manager",
-      "startDate": "2023-09-21 - 2023-10-21",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Mining",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Required Qualifications:Relevant degree/diploma in Mechanical / Electrical Engineering/Technical/Construction discipline or equivalent.Project Management Qualification (i.e. PMP or similar).Working knowledge of Agile project management methodologies (such as Scrum, SAFe, Kanban, etc.) will be preferred.&nbsp;Experience and Knowledge:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10+ years’ experience in related field.5+ years’ experience in a Project Management Role.Minimum 5 years of experience in the following: Engineering / Production / Construction / Mining / Process Plant and related operations environment.Mining, Process Plant, Logistics, Infrastructure, Quantity Surveyor, Enterprise Project Management Systems, e.g. MS-Projects, Primavera P6, Prism, SAP.Communicate Effectively: Speak, listen and write in a clear, thorough and timely manner using appropriate and effective communication tools and techniques.Creativity/Innovation: Develop new and unique ways to improve operations of the organization and to create new opportunities.Foster Teamwork: Work cooperatively and effectively with others to set goals, resolve problem, and make decisions that enhance organizational effectiveness.The program manager must have strong practical experience in project management, which was gained through managing large and complex projects.Good knowledge and handling of project and program management methodology and techniques.&nbsp;Key Responsibilities:Daily program management throughout the program life cycle.Defining the program governance (controls).Planning the overall program and monitoring the progress.Managing the program’s budget.Managing risks and issues and taking corrective measurements.Coordinating the projects and their interdependencies.Managing and utilizing resources across projects.Managing stakeholders’ communication.Aligning the deliverables (outputs) to the program’s “outcome” with the aid of the business change manager.Managing the main program documentations such as the program initiation document.&nbsp;Competencies:&nbsp;Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problemsActive Learning: Understanding the implications of new information for both current and future problem-solving and decision-makingBusiness knowledge: Good understanding of the organization and the business domain or sector within which it operatesComplex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutionsDeductive Reasoning: The ability to apply general rules to specific problems to produce answers that make senseInductive Reasoning: The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events)Excellent communication skills: Ability to engage with high-level stakeholders, both verbal and non-verbalFlexibility and adaptability (crucial to consulting environment)Organizational and leadership abilitiesInfluencing and motivatingDecision makingBuilding trust and long-term relationships with stakeholders",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002282-R",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Project Engineer",
-      "startDate": "2023-09-21 - 2023-10-21",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Engineering &amp; Technical",
-      "location": {
-        "city": ", Krugersdorp",
-        "region": "Gauteng"
-      },
-      "details": "Position: Project Engineer (Registered Candidate Engineer) Location: Various Project Sites (Flexibility to travel/work away from home)Availability: Immediatetly&nbsp;Key Responsibilities:\n\nProject Planning: Develop comprehensive project plans, timelines, and budgets.\nStructural Design: Oversee the structural design and engineering aspects of Tailings Storage Facilities.\nResource Management: Efficiently allocate resources, including labor and equipment.\nProject Management: Lead all project phases from initiation to completion.\nProcurement: Manage procurement processes and vendor relationships.\nReporting: Generate detailed project reports for stakeholders and management.\nSite Establishment: Ensure the effective setup and organization of project sites.\nClient Liaison: Act as the primary point of contact for clients, maintaining strong relationships.\nDirector and Service Provider Interaction: Collaborate with directors and service providers to meet project goals.\n\nRequirements:\n\nGraduate or Diplomat Engineer with relevant qualifications.\nRegistration as a Candidate Engineer with ECSA is essential.\nProficiency in Microsoft Office Suite.\nFamiliarity with Civil 3D, AutoCAD, and other relevant engineering software.\nStrong project management skills and experience.\nExcellent communication and interpersonal skills.\nWillingness to relocate to various project sites as required.\n\nMUST BE ABLE TO START EMPLOYMENT ON THE 01st of Oct 02023",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002283-R",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Cook",
-      "startDate": "2023-09-20 - 2023-10-20",
-      "vacancyType": "Contractor",
-      "jobSpecFields": "Food and Beverage",
-      "location": {
-        "city": ", All Areas",
-        "region": "All Areas"
-      },
-      "details": "In order to apply for this position please make sure you meet all the requirements:Qualifications:* NQF 2 - Grade 10 National Vocational Certificate Level 2* At least 1 year experience withing a kitchen, catering environment* Must be medically fit to work in the specific business area* Clear security screening record* Clear credit record* Valid driver's license* Be computer literacy in MS Office &amp; Simplexity* Be able to work in a teamOngoing accountabilities:* Catering* Financial Management* Building a value based organizational culture* ESG Compliance* SHE Compliance* Focus on safe production &amp; operational excellence* People management",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002278-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Sales Rep",
-      "startDate": "2023-09-19 - 2023-10-31",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Sales",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The ideal candidate needs to have the following requirements in order to apply for this position:* Valid driver's license* Own reliable transport* Previous sales experience* Grade 12 certificate* Must know the Rustenburg and mining areas very well.",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002276-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Receptionist / Admin Lady",
-      "startDate": "2023-09-13 - 2023-10-22",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Admin, Office &amp; Support",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The ideal candidate needs to have the following in order to apply for the position:* Must have at least 5-7 years working experience as a receptionist with a stable track record.* Previous working references essential.* Must have a valid grade 12 certificate* Computer literacy essential.* Valid driver's license with own reliable transport* Be willing to start immediately.",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002271-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Accountant",
-      "startDate": "2023-09-11 - 2023-10-31",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Finance",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The ideal candidate needs to have the following:* At least 5 - 10 years working experience as an Accountant* Must have a Financial Degree with SAIPA with completed articles.* Specifications:&nbsp;- Data processing up to trial balance- Preparing financial statements- SARS admissions* Computer knowledge in:- Pastel, Excel, Word and Draftworx",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002251-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
       "jobTitle": "Bookkeeper",
       "startDate": "2023-09-11 - 2023-10-31",
       "vacancyType": "Permanent",
@@ -336,20 +238,6 @@ export const data  = {
       "details": "The suitable candidate must have the following experience:* Valid driver's license.* Previous sales experience as a sales rep on the mines and surrounding areas* Must know the mining sites in and around the Rustenburg areas very well&nbsp;* No criminal recordMust be medically fit.",
       "contact": "Yolanda Day-Garden",
       "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002063-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Generator Service / Technical Sales",
-      "startDate": "2023-09-06 - 2023-10-21",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Engineering &amp; Technical",
-      "location": {
-        "city": ", Lanseria",
-        "region": "Gauteng"
-      },
-      "details": "The position is based both in the Lanseria and Brits area.The following is needed to apply for the position:Qualifications required:* Matric with Mathematics C Symbol or Higher a MUST HAVE (must send through with CV)Experience Required:* 0-5 years related working experience within the field.* Solar, electrical, mechanical or technical interestComputer Literacy:* MS Office - EXCEL ADVANCED A MUST (will be tested)Responsibilities &amp; Duties:* Present and sell products using solid arguments to prospective and existing customers* Supplying customer with support when necessary* Establish, develop and maintain positive business and customer relationshipsPerform cost benefit and needs analysis of new existing customers* Develop strategies for more effective sales and products* Supply management with reports on customer needs, problems, interests, competitive activities and potential for new products and servicesMeet or exceed monthly sales targets.",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002240-YDG",
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
