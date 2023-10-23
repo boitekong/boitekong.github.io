@@ -40,10 +40,7 @@ a {
 }
 
 body {
-  /* margin: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center; */
+ 
   width:100dvw;
   background-color: #1c1c1c;
 }
@@ -328,7 +325,7 @@ margin:auto;
 }
 nav {
   position: absolute;
-  top: 10px;
+  top: 20px;
   left: 10px;
   width: 50%;
   z-index: 2;
@@ -343,6 +340,10 @@ nav ul {
 
 nav li {
   float: left;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+
 }
 
 nav li a,
@@ -363,22 +364,23 @@ nav li ul {
 }
 
 #install-app {
-  background-color: #4caf4f11;
+  background-color: #04a73b;
   border: none;
   border-radius: 5px;
   color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  height: 50px;
+  font-size: 12px;
+  height: 30px;
   width: 80px;
+ 
 }
 
-#install-app > img {
+/* #install-app > img {
   width: 50%;
   height: 50%;
-}
+} */
 li:has(details) {
   display: flex;
   justify-content: center;
@@ -387,9 +389,10 @@ li:has(details) {
 }
 details {
   margin-top: 20px;
+  margin-left:15px;
   width: 100px;
   border: none;
-  background: inherit;
+  background: #1c1c1c;
 }
 
 details > summary {
@@ -470,7 +473,7 @@ li > a > img {
   }
 
   #install-app {
-    height: 50px;
+    height: 30px;
     width: 60px;
   }
 }

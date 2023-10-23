@@ -13,12 +13,12 @@ export  function setupNavigation(element){
                 </li>
                 <li>
                     <button id="install-app" title="install PWA">
-                    <img class="img-icon"  loading="lazy" src="../../../public/assets/install.png" atl="install image"/>
+                        install
                     </button>
                 </li>
                 <li>
                 <details>
-                    <summary>Job Vacancies</summary>
+                    <summary>vacancies</summary>
                     <a href="#pvt-job-board">Private</a>
                     <a href="#private-companies">Companies</a>
                     <a href="#public-sector">Public</a>
