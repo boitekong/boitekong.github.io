@@ -3,6 +3,15 @@ export const data = {
   "title": "heitha-stuffing-group",
   "blogPosts": [
     {
+      "apply": "http://www.heitha.co.za/jobs/senior-systems-designer",
+      "jobTitle": " Senior Systems Designer",
+      "jobSpecFields": "Government",
+      "details": "Purpose To analyse, develop and enhance software architecture and design solutions enabling the achievement of set business goals and objectives align to the agreed project delivery level.             Minimum requirements BSc or BTech Degree in computer science or equivalent. TOGAF certification or equivalent is desirable. Minimum six year's experience in application and integration design.             Main duties  Develop detailed solution architecture and design, including design models enabling development of the solution or application, based on frameworks and associated architecture development methods, including but not restricted to the following",
+      "province": "Gauteng",
+      "expiryDate": "Expiry Date: 2023-10-31 00:00:00",
+      "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
+    },
+    {
       "apply": "http://www.heitha.co.za/jobs/fitter-mining-maintenance-2-years",
       "jobTitle": " Fitter Mining Maintenance (2 Years)",
       "jobSpecFields": "Other",
@@ -39,7 +48,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/jobs/local-technical-support-engineer",
+      "apply": "http://www.heitha.co.za/?page=2jobs/local-technical-support-engineer",
       "jobTitle": " Local Technical Support Engineer",
       "jobSpecFields": "Other",
       "details": "Purpose  The Technical Help Desk is responsible for supporting dealers to diagnose and resolve issues to support vehicle repair.             Bachelor’s or equivalent Technical Qualification. 5 years’ relevant experience. Level 4 Technician Level would be advantageous.",
@@ -84,7 +93,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=2jobs/human-capital-officer-6-months",
+      "apply": "http://www.heitha.co.za/?page=3jobs/human-capital-officer-6-months",
       "jobTitle": " Human Capital Officer (6 Months)",
       "jobSpecFields": "Government",
       "details": "The Human Capital Officer’s role will, among other HCM functions, entail advertising and filling of positions.             Bachelor’s Degree in Human Resource qualifications or 3 – 5 years professional experience in recruitment or talent acquisition.",
@@ -129,7 +138,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=3jobs/sales-consultant-kzn",
+      "apply": "http://www.heitha.co.za/?page=4jobs/sales-consultant-kzn",
       "jobTitle": " Sales Consultant - KZN",
       "jobSpecFields": "Finance",
       "details": "To promote and sell the bank's product bouquet to clients through sales activities in a responsible manner. responsible sourcing and developing new contacts/prospects and sales leads through the bank's internal leads campaigns and your own referrals.             NQF 4 recognised FSB qualification. 2 years sales and client service experience. Full rep in all product categories.",
@@ -174,7 +183,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=4jobs/financial-accountant",
+      "apply": "http://www.heitha.co.za/?page=5jobs/financial-accountant",
       "jobTitle": " Financial Accountant",
       "jobSpecFields": "Finance",
       "details": "Assist in managing the relevant part of Finance Department, producing relevant financial information compliant with internal and external reporting requirements.             BCom (Accounting) and completed articles. 2-3 years relevant experience.",
@@ -219,7 +228,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=5jobs/compliance-officer",
+      "apply": "http://www.heitha.co.za/?page=6jobs/compliance-officer",
       "jobTitle": " Compliance Officer",
       "jobSpecFields": "Government",
       "details": "To provide administrative and functional support to the Senior Manager Risk Management in the performance of compliance related to legislation, policies and internal processes and procedures.             A minimum of a Bachelor’s degree or equivalent in Legal or Commerce.             Registration as a Compliance Practitioner (CPrac)/ Compliance Professional (CProf)/ Certified Fraud Examiner (CFE) will be an added advantage.",
@@ -264,7 +273,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=6jobs/senior-systems-engineer",
+      "apply": "http://www.heitha.co.za/?page=7jobs/senior-systems-engineer",
       "jobTitle": " Senior Systems Engineer",
       "jobSpecFields": "Insurance",
       "details": "The Senior Systems Engineer will install, manage and support LAN, WAN,CLOUD, VOIP infrastructure and workstations.             The Senior Systems Engineer will provide high level technical support for data and voice network systems, creates and maintains documentation, maintains hardware and software network standards.             Managing of projects as needed in order to upgrade to new and improved equipment and procedures. This job requires excellent problem management and customer service skills.",
@@ -309,7 +318,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=7jobs/bookkeeper",
+      "apply": "http://www.heitha.co.za/?page=8jobs/bookkeeper",
       "jobTitle": " Bookkeeper",
       "jobSpecFields": "Finance",
       "details": "The Bookkeeper is responsible for all daily and monthly duties within the company.             A minimum of a National Diploma or Bachelor’s Degree in Finance / Accounting.  Experience in the Corporate Finance space, with minimum 3-5 years’ work experience.  Very good experience with the Sage Pastel.",
@@ -354,7 +363,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=8jobs/supply-chain-administrator",
+      "apply": "http://www.heitha.co.za/?page=9jobs/supply-chain-administrator",
       "jobTitle": " Supply Chain Administrator",
       "jobSpecFields": "Other",
       "details": "To provide office administration support services relating to filing, data capturing, records management, Reporting and other office/programme related basic administrative activities.             Minimum qualification, 3-year degree or BTech / diploma in administration, finance or related field. Microsoft Office Suite proficiency. 1 year experience, in admin or related role.",
@@ -399,7 +408,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=9jobs/assistant-company-secretary-and-statutory-liaison",
+      "apply": "http://www.heitha.co.za/?page=10jobs/assistant-company-secretary-and-statutory-liaison",
       "jobTitle": " Assistant Company Secretary and Statutory Liaison",
       "jobSpecFields": "Insurance",
       "details": "Assist in the facilitation and administration of Company Secretary duties as outlined in the Companies Act and guided by PFMA regulations. Provide for the proper recording of minutes in relation to all Executive Committee and Board meetings.             Relevant Degree / Diploma in Law. Completed or Studying towards Chartered Governance Institute of South Africa (CGISA) qualification. 4 years experience in a Secretariat Environment.",
@@ -441,15 +450,6 @@ export const data = {
       "details": "To perform underwriting administration tasks and assist in the implementation of underwriting rules and regulations. Reviewing terms and conditions of products on an ongoing basis.             Minimum of an IISA qualification (or studying towards). RE 5. Tertiary qualification advantageous. Minimum of 4 years of experience in a similar role in a short-term insurance company.",
       "province": "Gauteng",
       "expiryDate": "Expiry Date: 2023-08-18 08:59:38",
-      "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
-    },
-    {
-      "apply": "http://www.heitha.co.za/?page=10jobs/company-secretary-internship",
-      "jobTitle": " Company Secretary Internship",
-      "jobSpecFields": "Government",
-      "details": "The following position is available to all unemployed LLB graduates. Applicants must be South African citizens with a valid South African ID book or card.             Must hold a valid South African Matric Certificate and completed LLB Degree/Diploma from recognized South African institution and residing in KwaZulu-Natal.  Applicants must not have been participated in an internship program.             Applicants must be unemployed and must not have previously had permanent employment.  Applicants must be between the age of 18 to 35 years old.",
-      "province": "Gauteng",
-      "expiryDate": "Expiry Date: 2023-08-18 06:47:36",
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     }
   ]
