@@ -3,6 +3,15 @@ export const data = {
   "title": "heitha-stuffing-group",
   "blogPosts": [
     {
+      "apply": "http://www.heitha.co.za/jobs/applications-architect",
+      "jobTitle": " Applications Architect",
+      "jobSpecFields": "Government",
+      "details": "Purpose  To lead the design of an enterprise-wide application architecture as guided by the EA standards, procedures, and policies.             Minimum Requirements  Relevant postgraduate Bachelor's Degree in Computer Science, Information technology, software engineering, or a related field is a requirement. (NQF level7).             Main Duties  Interpret and apply approved enterprise architecture principles, policies, procedures in the architecture work.",
+      "province": "Gauteng",
+      "expiryDate": "Expiry Date: 2023-11-30 00:00:00",
+      "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
+    },
+    {
       "apply": "http://www.heitha.co.za/jobs/senior-systems-designer",
       "jobTitle": " Senior Systems Designer",
       "jobSpecFields": "Government",
@@ -39,7 +48,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/jobs/office-manager-3-years",
+      "apply": "http://www.heitha.co.za/?page=2jobs/office-manager-3-years",
       "jobTitle": " Office Manager (3 Years)",
       "jobSpecFields": "Government",
       "details": "Purpose  The Officer Manager will be responsible for carrying out managerial, financial and administrative tasks.             Minimum Requirements  National Diploma or Degree in Management, Office Management & Technology, or relevant administrative qualification. 5 to 8 years of professional administrative experience in working with Executives or senior management.",
@@ -84,7 +93,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=2jobs/senior-database-developer",
+      "apply": "http://www.heitha.co.za/?page=3jobs/senior-database-developer",
       "jobTitle": " Senior Database Developer",
       "jobSpecFields": "Government",
       "details": "Purpose Design, develop and maintain high performance scalable and secure database solution in order to ensure successful and             efficient database solutions meeting the business requirements.             Minimum requirements, A relevant ICT degree or equivalent qualification. Requirements gathering - minimum five years' experience. Project management - minimum five years' experience.",
@@ -129,7 +138,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=3jobs/learning-and-development-officer-12-months",
+      "apply": "http://www.heitha.co.za/?page=4jobs/learning-and-development-officer-12-months",
       "jobTitle": " Learning and Development Officer (12 Months)",
       "jobSpecFields": "Government",
       "details": "The Learning & Development Officer will be required to assist with Learning & Development functions, overall planning, monitoring and execution of the internship programme.             Minimum requirements  Bachelor Degree in Human Resources/Development/ Business Administration or related.3 – 5 years Learning and Development/ Talent Development experience             Main Duties  Assisting with the implementation and monitoring of internship and Work Integrated Learning (WIL) Programme.",
@@ -174,7 +183,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=4jobs/programme-manager",
+      "apply": "http://www.heitha.co.za/?page=5jobs/programme-manager",
       "jobTitle": " Programme Manager",
       "jobSpecFields": "Other",
       "details": "The incumbent will assist the HOD with the development of annual programme activities and work plans with clear deliverables, indicators of success and timeframes in line with the funder’s strategy.             The Programme Manager will also be responsible for the management and implementation of the company's work plan activities in line with 909090 strategy and support District with 909090 DIP process and monitoring of performance.",
@@ -219,7 +228,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=5jobs/production-supervisor",
+      "apply": "http://www.heitha.co.za/?page=6jobs/production-supervisor",
       "jobTitle": " Production Supervisor",
       "jobSpecFields": "Other",
       "details": "To supervise the employees, ensure that production targets are met, maintaining the necessary safety precautions and ensure that good quality parts are produced.             Qualification in engineering or diploma/ Certificate in Production Management and or Supervisory qualification. 3 to 5 years experience in a supervisory position in steel a (tube making) production environment.             Experience in Mills operating machines would be an advantage. Experience within the automotive will be an advantage. Working Shift and overtime.",
@@ -264,7 +273,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=6jobs/head-group-finance-shared-services",
+      "apply": "http://www.heitha.co.za/?page=7jobs/head-group-finance-shared-services",
       "jobTitle": " Head Group Finance Shared Services",
       "jobSpecFields": "Finance",
       "details": "To oversee the efficient and effective delivery of finance related services and processes across the Group.             This role involves centralising and streamlining financial operations, transaction processing, reporting, and support functions to enhance operational excellence and contribute to the achievement of the Groups financial goals.             Develop and implement the strategic vision, goals, and objectives of the Finance Shared Services function in alignment with the overall Groups strategy.",
@@ -309,7 +318,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=7jobs/senior-manager-procurement-legal-risk-and-compliance",
+      "apply": "http://www.heitha.co.za/?page=8jobs/senior-manager-procurement-legal-risk-and-compliance",
       "jobTitle": " Senior Manager (Procurement Legal, Risk and Compliance)",
       "jobSpecFields": "Finance",
       "details": "Act as a knowledgeable business partner by providing competent and effective legal, risk and compliance advice and support within procurement.             Work closely with all the company's risk groups and lines of business to assess both business needs and risks and assure that procurement contracts are in compliance with applicable laws and regulations.             Provide advice regarding regulatory compliance and legal requirements that pertain to procurement agreements, participate in procurement negotiations.",
@@ -354,7 +363,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=8jobs/it-governance-risk-compliance-grc-specialist",
+      "apply": "http://www.heitha.co.za/?page=9jobs/it-governance-risk-compliance-grc-specialist",
       "jobTitle": " IT Governance Risk & Compliance (GRC) Specialist",
       "jobSpecFields": "Insurance",
       "details": "To drive the successful delivery of the IT Governance, Risk and Cyber Security, strategy implementation and the effective running of the Office of the CIO by ensuring the attainment of the company's objectives internally and externally.             Information Technology (IT) related Bachelor’s Degree at NQF level 7 as recognized by SAQA. Post Graduate Degree/Diploma (Advantageous). IT Governance certifications: ITIL, COBIT, ISO 27001/2.             Any one of the following international certificates: CRISC, CISA or CGEIT. Member of a professional body within ICT e.g., ISACA. Minimum 6 years of experience in IT Governance/ IT Risk/ IT Audit & Compliance/ Information Security Governance.",
@@ -399,7 +408,7 @@ export const data = {
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=9jobs/mining-engineer",
+      "apply": "http://www.heitha.co.za/?page=10jobs/mining-engineer",
       "jobTitle": " Mining Engineer",
       "jobSpecFields": "Other",
       "details": "The Mining Engineer will form part of a team responsible to lead and execute mining engineering activities in the technical role to support underground horizontal development, undercutting and drawbells.             The role will focus on mine design, planning, scheduling and data analysis, to enable better planning processes and give relevant feedback.             BTech/BSc. Degree in Mining Engineering. Blasting Certificate for Underground Metalliferous Mines/Mechanised mines. Mine Overseers Certificate of Competency will be an advantage.",
@@ -441,15 +450,6 @@ export const data = {
       "details": "The role of the Junior Group Accountant is to capture, analyse, support and provide in-depth reporting of financial transactions across all the departments and business units in the group.             BSc/BCom/Ba in accounting, finance. Qualifications (ACA, ACCA or CIMA) is an advantage. Certification in Sage, SAP. Minimum 2 – 3 years’ experience in the Auditing, Tax and Cost Management.             Highly Proficient in Sage Accounting and Payroll. Exposure in Mining and/or Logistics.",
       "province": "Gauteng",
       "expiryDate": "Expiry Date: 2023-08-21 12:22:07",
-      "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
-    },
-    {
-      "apply": "http://www.heitha.co.za/?page=10jobs/underwriter",
-      "jobTitle": " Underwriter",
-      "jobSpecFields": "Insurance",
-      "details": "To perform underwriting administration tasks and assist in the implementation of underwriting rules and regulations. Reviewing terms and conditions of products on an ongoing basis.             Minimum of an IISA qualification (or studying towards). RE 5. Tertiary qualification advantageous. Minimum of 4 years of experience in a similar role in a short-term insurance company.",
-      "province": "Gauteng",
-      "expiryDate": "Expiry Date: 2023-08-18 08:59:38",
       "iconLink": "http://www.heitha.co.za/themes/heitha/assets/img/fav.png"
     }
   ]

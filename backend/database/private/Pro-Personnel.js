@@ -3,6 +3,20 @@ export const data  = {
   "title": "pro-personnel",
   "blogPosts": [
     {
+      "jobTitle": "SAICA/SAIPA Clerk",
+      "startDate": "2023-10-24 - 2023-11-23",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Finance",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "SAICA or SAIPA clerk who is currently pursuing a BCompt Accounting or BCom Accounting degree, or who has completed their BCompt Accounting degree. The ideal candidate should be computer literate, willing to travel, and must be proficient in Afrikaans (speaking, reading, and writing) – this requirement is non-negotiable.",
+      "contact": "Rene",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002305-R",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
       "jobTitle": "Accountant",
       "startDate": "2023-10-20 - 2023-11-20",
       "vacancyType": "Permanent",
