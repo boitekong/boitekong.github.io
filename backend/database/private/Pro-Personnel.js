@@ -3,6 +3,20 @@ export const data  = {
   "title": "pro-personnel",
   "blogPosts": [
     {
+      "jobTitle": "Branch Manager",
+      "startDate": "2023-10-25 - 2023-11-24",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Manufacturing",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "Requirements:&nbsp;Minimum MatricPreferred post-matric qualification in Sales, Marketing, or a Technical FieldProven experience in a similar environmentKnowledge of the products sold by the CompanyValid Driver’s license and access to a reliable vehicleProficiency in Microsoft Excel and Microsoft WordWorking knowledge of ERP/CRM systems such as Syspro, Microsoft Navision, or similar",
+      "contact": "Rene",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002296-R",
+      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
+    },
+    {
       "jobTitle": "SAICA/SAIPA Clerk",
       "startDate": "2023-10-24 - 2023-11-23",
       "vacancyType": "Permanent",
@@ -140,20 +154,6 @@ export const data  = {
       "details": "Required Qualifications\n\nTertiary degree, diploma or certificate in a related field (SAFE Agile, SCRUM Certification or Project Management)\nAgile Practitioner is preferred (or prepared to undertake certification soon after onboarding)\n\n&nbsp;Experience and Knowledge:\n\n6-8 years working experience in Programme or Project Management Position\nAdditional Experience in the Mining Industry or Banking Industry would be beneficial\nExperience in product lifecycle management\nSoftware Development Project Experience\nExperience in managing technology / data projects\nExperience in working with Project Management Office (PMO)\nAgile Project Delivery (Leading Tribes, Chapters, Feature Teams etc.)\n\n&nbsp;Key Responsibilities:\n\nCompiling business cases, business requirements and process maps\nCreating and Managing project schedules (including SOW, backlogs, task prioritisation and other)\nProject RAID management\nProject integration and change management\nBudget and cost management including procurement and reporting\nQuality management\nConflict management and negotiations\nCoordinate cross-functional / multi-disciplinary technical teams\nRelease and configuration Management\nSteering Committee Reporting\n\n&nbsp;Competencies:&nbsp;&nbsp;\n\nCritical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems\nActive Learning: Understanding the implications of new information for both current and future problem-solving and decision-making\nBusiness knowledge: Good understanding of the organization and the business domain or sector within which it operates\nSystems Analysis: Understanding how a system should work and how changes in conditions, operations, and the environment will affect outcomes\nComplex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions\nDeductive Reasoning: The ability to apply general rules to specific problems to produce answers that make sense\nInductive Reasoning: The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events)\nExcellent communication skills: Ability to engage with high-level stakeholders, both verbal and non-verbal\nFurther interpersonal skills needed include:\n\nFlexibility and adaptability (crucial to consulting environment)\nOrganizational and leadership abilities\nInfluencing and motivating\nDecision making\nBuilding trust and long-term relationships with stakeholders\n\n",
       "contact": "Rene",
       "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002298-R",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
-      "jobTitle": "Sales Representative",
-      "startDate": "2023-10-13 - 2023-11-12",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Sales",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Requirements: To excel in this role, you should possess:\n\nA proven track record in the printing and signage industry.\nOutstanding communication and interpersonal skills.\nFamiliar with the Mining houses in and around Rustenburg.\nA history of achieving and surpassing sales objectives.\nSelf-motivation and a relentless drive to excel.\nA valid driver's license.\n\nWhat Our Client Offers:\n\nCompetitive compensation with performance-based incentives.\nOpportunities for professional growth and career advancement.\nA vibrant and supportive work environment within a respected organization.\n",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002299-R",
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
