@@ -241,20 +241,6 @@ export const data  = {
       "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
     },
     {
-      "jobTitle": "Sales Rep",
-      "startDate": "2023-09-06 - 2023-10-27",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Sales",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The suitable candidate must have the following experience:* Valid driver's license.* Previous sales experience as a sales rep on the mines and surrounding areas* Must know the mining sites in and around the Rustenburg areas very well&nbsp;* No criminal recordMust be medically fit.",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002063-YDG",
-      "iconLink": "https://www.pro-personnel.co.za/wp-content/uploads/2021/05/cropped-Site-Icon-JPG-32x32.jpg"
-    },
-    {
       "jobTitle": "Senior Call Out Technician",
       "startDate": "2023-09-05 - 2023-10-31",
       "vacancyType": "Permanent",
