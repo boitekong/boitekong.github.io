@@ -20,9 +20,10 @@ export function propersonnelJobs() {
 export function heithaJobs() {
   return heithaData;
 }
+
 export const agencyIcons = [
-  { src: propersonnelData["iconLink"], title: propersonnelData["title"] },
-  { src: heithaData["iconLink"], title: heithaData["title"] }
+  { src: `../backend/database/${propersonnelData["iconLink"]}`, title: propersonnelData["title"] },
+  { src: `../backend/database/${heithaData["iconLink"]}`, title: heithaData["title"] }
 ];
 
 export const stats = {
