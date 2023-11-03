@@ -241,20 +241,6 @@ export const data  = {
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {
-      "jobTitle": "Portfolio Manager",
-      "startDate": "2023-10-03 - 2023-11-02",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Admin, Office &amp; Support",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The successful candidate must fulfill the following minimum requirements:&nbsp;Qualifications:\n\nGrade 12 with Math's or finance related experience&nbsp;\nNQF Level 4 Real Estate Qualification\n\nExperience, Skills, Knowledge&nbsp;\n\nExceptional computer literacy in Word, Excel, Email and Presentations&nbsp;\nHighly developed organizational and interpersonal skills as well as good professional communication skills&nbsp;\nAbility to multi task&nbsp;\nMature individual with strong independent initiative&nbsp;\nUnderstanding/knowledge of the Sectional Title Scheme Management Act&nbsp;\nExperience and knowledge of HOA and sectional Title Buildings&nbsp;\n",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002286-R",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
       "jobTitle": "Internal Sales",
       "startDate": "2023-10-01 - 2024-01-31",
       "vacancyType": "Permanent",
