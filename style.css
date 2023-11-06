@@ -310,7 +310,8 @@ margin:auto;
   max-height: 500px;
   width: 100%;
   overflow-y: auto;
-  background: rgb(71, 70, 70);
+  background: whitesmoke;
+  color:black;
   padding: 20px;
   border-radius: 5px;
   cursor: pointer;
@@ -585,7 +586,8 @@ li > a > img {
 
    }
   .job-post-private {
-    width: 140px;
+    width: 80dvw;
+    border-radius:8px;
   }
   .job-post-private > h3 {
     width: 80%;
@@ -601,11 +603,7 @@ li > a > img {
     overflow: hidden;
   }
 }
-@media screen and (max-width: 372px) {
-  .job-post-private {
-    width: 120px;
-  }
-}
+
 
 @media screen and (max-width: 331px) {
   #info > img {
@@ -613,9 +611,9 @@ li > a > img {
     max-height: 125px;
     border-radius: 4px;
   }
-  .job-post-private {
+  /* .job-post-private {
     width: 114px;
-  }
+  } */
   .job-post {
     width: 114px;
     height: 114px;
@@ -626,8 +624,8 @@ li > a > img {
     overflow: hidden;
   }
 }
-@media screen and (max-width: 319px) {
+/* @media screen and (max-width: 319px) {
   .job-post-private {
     width: 200px;
   }
-}
+} */
