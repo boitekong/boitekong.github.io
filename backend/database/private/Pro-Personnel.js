@@ -227,20 +227,6 @@ export const data  = {
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {
-      "jobTitle": "ADT Operator ( Articulated Dump Truck)",
-      "startDate": "2023-10-05 - 2023-11-07",
-      "vacancyType": "Contractor",
-      "jobSpecFields": "Mining",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "The candidate must have previous working experience as a ADT operator valid certificates.",
-      "contact": "Yolanda Day-Garden",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002290-YDG",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
       "jobTitle": "Internal Sales",
       "startDate": "2023-10-01 - 2024-01-31",
       "vacancyType": "Permanent",
