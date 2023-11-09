@@ -47,9 +47,9 @@ export function setupPrivateCompanies(element) {
                   )
                 : p.iframe
                 ? ` <iframe id="documentFrame" src=${p.iframe} >
-                      <p>&#128542; sorry  Document won't load, you can access it directly here (<a href=${p.href} target="_blank">${p.href}</a>) or click the source button below.</p>
+                      <p  class="details" >&#128542; sorry  Document won't load, you can access it directly here (<a href=${p.href} target="_blank">${p.href}</a>) or click the source button below.</p>
                     </iframe>`
-                : `<p>&#128542; sorry  Document won't load, you can access it directly here (<a href=${p.href} target="_blank">${p.href}</a>) or click the source button below.</p>`
+                : `<p  class="details">&#128542; sorry  Document won't load, you can access it directly here (<a href=${p.href} target="_blank">${p.href}</a>) or click the source button below.</p>`
             }
             </section>
             <br/>
