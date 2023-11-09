@@ -310,12 +310,19 @@ margin:auto;
   max-height: 500px;
   width: 100%;
   overflow-y: auto;
-  background: whitesmoke;
-  color:black;
+  
   padding: 20px;
   border-radius: 5px;
   cursor: pointer;
+ 
+}
+.details {
+  background: whitesmoke;
+  color:black;
   text-align: justify;
+}
+.details a {
+  color:blue;
 }
 
 #documentFrame {
