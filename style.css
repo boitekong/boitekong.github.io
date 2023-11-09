@@ -316,13 +316,16 @@ margin:auto;
   cursor: pointer;
  
 }
-.details {
+.details, .details * {
   background: whitesmoke;
   color:black;
   text-align: justify;
 }
 .details a {
   color:blue;
+}
+.details h1{
+  font-size:15px;
 }
 
 #documentFrame {

@@ -40,9 +40,14 @@ export function setupPrivateSector(element) {
 
        <br/>
 
-       <p class="job-field" style="padding:3px;" title=${p["jobSpecFields"]} >
+       
+        ${
+          p.jobSpecFields
+            ? `<p class="job-field" style="padding:3px;" title=${p["jobSpecFields"]} >
           ${p["jobSpecFields"]}
-        </p>
+          </p>`
+            : ""
+        }
 
        ${
          p.province
@@ -53,12 +58,18 @@ export function setupPrivateSector(element) {
        ${
          p.location
            ? `<span >
-              <p class="location" style="padding:3px;">${p.location[
-                "region"
-              ].replace(",", "")}</p>
-              <p class="location" style="padding:3px;">${p.location[
-                "city"
-              ].replace(",", "")}</p>
+              ${
+                isObject(p.location)
+                  ? `<p class="location" style="padding:3px;">${p.location?.region?.replace(
+                      ",",
+                      ""
+                    )}</p>
+              <p class="location" style="padding:3px;">${p.location?.city?.replace(
+                ",",
+                ""
+              )}</p>`
+                  : `<p class="location" style="padding:3px;">${p.location}</p>`
+              }
            </span>`
            : ""
        }
@@ -67,18 +78,27 @@ export function setupPrivateSector(element) {
 
     const dialog = document.getElementById("dialog");
     const btn = div.querySelector(".more");
+
     btn.addEventListener("click", () => {
       dialog.showModal();
 
       const article = document.getElementById("info");
       article.innerHTML = `
+     
+       <img loading="lazy" src=${
+         "../backend/database/" + p.iconLink
+       } alt="agency icon" title="agency icon"/>
+      <br/>
       <h3  class="ellipsis-text">${title}</h3>
       <br/>
       <hr/>
       <br/>
-      <p><strong class="job-field f" style="padding:3px;" >${
-        p["jobSpecFields"]
-      }</strong></p>
+      ${
+        p.jobSpecFields
+          ? `<p><strong class="job-field f" style="padding:3px;" >${p["jobSpecFields"]}</strong></p>`
+          : ""
+      }
+      
       <br/>
       ${
         p.province
@@ -86,18 +106,25 @@ export function setupPrivateSector(element) {
           : ""
       }
 
-      ${
-        p.location
-          ? `<span >
-             <p class="location" style="padding:3px;">${p.location[
-               "region"
-             ].replace(",", "")}</p>
-             <p class="location" style="padding:3px;">${p.location[
-               "city"
-             ].replace(",", "")}</p>
-          </span>`
-          : ""
-      }
+     
+       ${
+         p.location
+           ? `<span >
+              ${
+                isObject(p.location)
+                  ? `<p class="location" style="padding:3px;">${p.location?.region?.replace(
+                      ",",
+                      ""
+                    )}</p>
+              <p class="location" style="padding:3px;">${p.location?.city?.replace(
+                ",",
+                ""
+              )}</p>`
+                  : `<p class="location" style="padding:3px;">${p.location}</p>`
+              }
+           </span>`
+           : ""
+       }
       <br/>
       ${
         p.expiryDate
@@ -113,6 +140,14 @@ export function setupPrivateSector(element) {
           : ""
       }
       <br/>
+       ${
+         p.publishedDate
+           ? `<p class="start-date" style="width:${
+               p.publishedDate.length + 13
+             }ch; padding:3px;">${p.publishedDate}</p>
+            <br/>`
+           : ""
+       }
 
       ${
         p.vacancyType
@@ -123,10 +158,11 @@ export function setupPrivateSector(element) {
       }
       <br/>
 
-      <section class="details">${p.details.replaceAll(
-        /\.(?=[A-Z0-9 ])/g,
-        ".<br/><br/>"
-      )}</section>
+      <section class="details">${
+        Array.isArray(p.details)
+          ? p.details.map((p) => p)
+          : p.details.replaceAll(/\.(?=[A-Z0-9 ])/g, ".<br/><br/>")
+      }</section>
       <br/>
       <section class="options">
           <button id="share" class="apply share" title="share post with friends">
@@ -172,4 +208,8 @@ export function setupPrivateSector(element) {
   }
   privateSectorBoard.appendChild(posts);
   element.appendChild(privateSectorBoard);
+}
+
+function isObject(value) {
+  return typeof value === "object" && value !== null;
 }

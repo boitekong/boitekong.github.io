@@ -26,8 +26,7 @@ export function setupPubliDepartments(element) {
 
       const article = document.getElementById("info");
       article.innerHTML = `
-   <img loading="lazy" src=${p.imgSrc} alt=${p.title} title=${title}/>
- 
+      <img loading="lazy" src=${p.imgSrc} alt=${p.title} title=${title}/>
       <br/>
       <hr/>
       <br/>
