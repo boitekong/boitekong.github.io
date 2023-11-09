@@ -3,6 +3,20 @@ export const data  = {
   "title": "pro-personnel",
   "blogPosts": [
     {
+      "jobTitle": "Supervisor",
+      "startDate": "2023-11-08 - 2023-12-15",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Other",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "\nMust have Gr12\nMust have relevant qualifications\nMust have Mining Experience\nPeople Management\nWear Protection Background would help but not compulsory\nMust have Drivers License\nNo Criminal Record\nMedically Fit\n\nPlease send CV with all Qualifications to dora@propersonnel.co.za",
+      "contact": "Dianne",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB001863-D",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
       "jobTitle": "External Sales Engineer",
       "startDate": "2023-10-31 - 2023-11-30",
       "vacancyType": "Permanent",
@@ -157,20 +171,6 @@ export const data  = {
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {
-      "jobTitle": "Call out Inhouse Technician",
-      "startDate": "2023-10-13 - 2023-11-30",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Information Technology",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Package:* R15 000* 13th Cheque* Commission* 50% medical aid (Discovery) after 3 Months ProbationThe successful candidate must meet the following requirements:* Retail Experience will be an advantage* 3 - 5 Years Experience* A + &amp; N + Qualification* MCSE or MCP Qualified* Valid Drivers License&nbsp;* Own Vehicle&nbsp;* Must have an outgoing personality",
-      "contact": "Michelle",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002301-Du+To",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
       "jobTitle": "Office Admin - Interior Design",
       "startDate": "2023-10-13 - 2023-11-12",
       "vacancyType": "Permanent",
@@ -199,6 +199,20 @@ export const data  = {
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {
+      "jobTitle": "Call out Inhouse Technician",
+      "startDate": "2023-10-13 - 2023-11-30",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Information Technology",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "Package:* R15 000* 13th Cheque* Commission* 50% medical aid (Discovery) after 3 Months ProbationThe successful candidate must meet the following requirements:* Retail Experience will be an advantage* 3 - 5 Years Experience* A + &amp; N + Qualification* MCSE or MCP Qualified* Valid Drivers License&nbsp;* Own Vehicle&nbsp;* Must have an outgoing personality",
+      "contact": "Michelle",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002301-Du+To",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
       "jobTitle": "Creditors Clerk",
       "startDate": "2023-10-11 - 2023-11-10",
       "vacancyType": "Permanent",
@@ -210,20 +224,6 @@ export const data  = {
       "details": "Role\n\nManagement of accounts payable process which includes all creditors and sub-contractors bill capturing, reconciliations, payment allocation and age analysis.\n\nQualification\n\nMatric with accounting and studying towards an account qualification.\nFinancial qualification – advantages\n\nExperience\n\n2 to 5 years experience in similar role\n\nCompetencies\n\nGood understanding of basic bookkeeping and accounting payable principles\nGood understanding of reconciliations\nAbility to calculate, post and manage accounting figures and financial records\nExperience in processing entries within accounting software\nAdvance excel, word and outlook\nMS Team and OneDrive\nEffective verbal, written and listening communications skills\nTime management skills\nGood planning and organisation skills\nExcellent attention to detail\nAbility to work in a fast paced, pressurised environment\n\nTasks\n\nCreate suppliers / review suppliers created (CIPC, VAT and BEE).\nCapture banking details / review of banking details captured (Bank confirmation letter).\nCreate requisitions and purchase orders as require (filing of documents in electronic format).\nCapture supplier invoices into accounting system (Bills). Ensure invoices are matched against requisitions, purchase orders and goods received note. Query and resolve any discrepancies with Procurement dept.\nConfirm VAT treatment.\nObtain and capture credit notes as and when required.\nPerform supplier, sub-contractor and inter-company reconciliations and follow up on queries until resolved.\nPrepare payment batches (payment loading to bank and approval will be performed by Accountant and FD).\nSend remittance advices to all paid. Follow up and resolve any queries.\nDownload and capture bank transactions into accounting system\nAllocate payments made to creditors and suppliers.\nAge analysis extraction, review and clearing of any allocation issues and/or errors. Check aging against supplier / sub-contractor statements. Filing statements in electronic format.\nReport to Accountant on daily basis on work performed and queries.\nAdhoc tasks as required within the finance department.\n\nSalary is R12k to R15k",
       "contact": "Dianne",
       "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002293-D",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
-      "jobTitle": "Portfolio Officer",
-      "startDate": "2023-10-09 - 2023-11-08",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Property &amp; Estates",
-      "location": {
-        "city": ", Port Elizabeth",
-        "region": "Eastern Cape"
-      },
-      "details": "Educational Requirements:\n\nA 3-year Property Management qualification or equivalent.\nRegistered with EAAB as an Estate Agent holding a valid FFC.\nPaddocksUCT or equivalent community schemes qualification.\n\nWork Experience, Skills &amp; Attributes:\n\nThree years of experience in a client services/marketing &amp; management environment.\nManaging third-party properties – rentals &amp; community schemes.\nCredit Control experience with a basic understanding of the National Credit Act.\nExperience in overseeing and managing staff.\nAdvanced MS Office and MDA skills.\nExceptional planning, problem-solving, and analytical skills.\nAccuracy &amp; Strategy planning.\nExcellent communication skills.\nExceptional attention to detail.\nLogical thinking &amp; information seeking.\nSelf-development orientation.\nCultural sensitivity.\nService orientation.\nExcellent people/interpersonal skills.\nPresentable and Professional.\nAbility to work unsupervised in a pressurized environment.\n\nKey Performance Areas: 1) Operational Requirements Execute daily tasks and work instructions according to relevant procedures. Prepare marketing plans and ensure implementation.&nbsp; Prepare, submit, and pursue management proposals to meet growth targets. Attend functions to promote management services. Co-ordinate and attend sponsored events. Ensure the successful take-on of new properties under effective marketing management.2) Landlord and Relationship Management - Landlord&nbsp; Ensure efficient and effective landlord administration and management. Manage landlord mandate to maximize revenue streams.&nbsp;Oversee the landlord payment process. Sign-off on monthly invoices and municipal accounts payments. Distribute monthly reports to landlords. Consult with landlords regarding maintenance &amp; expenditure. Oversee and ensure house visits by relevant staff. Oversee the implementation of rental increases.3) Relationship &amp; Property Management - Community Schemes Ensure efficient and effective administration and management of owner and Trustees relationships. Assist with the signing of debit order forms and levy recoveries. Ensure entities are registered with CSOS. Oversee the management and enforcement of house and conduct rules.4) Tenant &amp; Relationship Management Ensure efficient tenant administration and management. Oversee tenant management procedures to maximize revenue streams. Ensure vacancies negated in line with budgets and projections. Oversee tenant relationships through tracking customer service levels. Ensure lease agreement processes are managed in line with company procedures. Oversee the marketing of available units to optimize rental income.5) Rental/Levy Administration Generate levy statements for owners and rental statements for tenants. Bill tenants and owners' relevant collection/legal fees. Ensure accurate debit order collections.6) Credit Control Procedures Track arrear accounts and receipts. Implement credit control procedures. Make payment arrangements and follow-ups with owners and tenants.7) Legal Matters Draft summonses and judgments. Liaise with attorneys throughout the legal process.8) Compliance Ensure compliance with relevant legislation. Ensure FICA compliance of third-party files. Renew EAAB annual renewals.9) Report Writing Review monthly business unit results. Report on vacancies, mandates, and mutations. Prepare monthly progress reports.10) Staff Management Oversee and manage staff's daily activities. Ensure staff performance and development in line with company policies and procedures.11) Community Development Manage Corporate Social Investment activities. Engage with volunteers involved in CSI programs.12) Financial Ensure effective cost-saving and waste elimination. Assist with Annual Budgets and Quarterly Forecasts. Control and approve expenses in line with company approvals framework.13) Human Resources Promote diversity, equal opportunity, and fair treatment.&nbsp; Execute company EE plan and Workplace Skills Plan. Manage staff performance through the Company Performance Management program.14) Quality Compliance Comply with Quality requirements. Ensure high-quality standards of work.15) Safety, Health &amp; Environmental Adhere to Government regulations. Ensure SHE procedures &amp; regulations are followed.",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002292-R",
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {
