@@ -3,6 +3,76 @@ export const data  = {
   "title": "pro-personnel",
   "blogPosts": [
     {
+      "jobTitle": "Branch Manager",
+      "startDate": "2023-11-13 - 2023-12-13",
+      "vacancyType": "Contractor",
+      "jobSpecFields": "Construction",
+      "location": {
+        "city": ", Zambia",
+        "region": "Africa"
+      },
+      "details": "Qualifications Requirements:* Degree in Business Administration or any business-related ProgramA minimum of 5 years' experience in operations or sales in mining supply company* A minimum of 3 years' experience in Senior management capacity* MBA is a added advantageProficient in SM Office Suite applicationsSkillesd Required:* Leadership and management skills* Excellent time management skills* Focus on achiving results and customer focues* Familitirty with industry rules and regulations* High level of integrity* Excellent oral and written communication skills* Good personal organization* Ability to stratizige abnd plan aheadRole Objectives:* To oversee overall and daily operations of the branch.* Manage and monitor the financial performance and overall profitability of the branchDuties:* Ensuring adherence to all company policies and procedures* Develop strategic and tactical plant to grow sales developing new customers and /or broadinging product line penetration to existing customers* Manage Human resource activites* Meet and exceed company profit goals* Manage accounting and budget information* provide feedback to management regarding marketing ideas and sales afforts",
+      "contact": "Yolanda Day-Garden",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002313-YDG",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
+      "jobTitle": "Teacher Assistant / Admin",
+      "startDate": "2023-11-10 - 2023-12-16",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Admin, Office &amp; Support",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "Must meet the following criteria:Grade 12Age group between 21 and 27Must speak AfrikaansMinimum 2 years experienceStudentPlease email your CV to michelle@propersonnel.co.za",
+      "contact": "Michelle",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002236-Du+To",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
+      "jobTitle": "Health and Safety Admin Clerk",
+      "startDate": "2023-11-10 - 2023-12-10",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Mining",
+      "location": {
+        "city": ", Brits",
+        "region": "North West"
+      },
+      "details": "QUALIFICATIONSGrade 12 (preferably with Mathematics and Science)3 – 5 years’ working experience. Experience within a mining environment will be advantageous.South African Identity and valid South African Licence is essential.&nbsp;KEY COMPETENCIESSpeak and write English fluentlyStrong administrative and organisational skills100% Computer literate (strong MS Office skills as well as various on-line portals)People and communication skills (written and oral)Able to work under pressure in a fast- paced environment&nbsp;RESPONSIBILITIESAssist with the update of Safety Standards and procedures.Ensure that Company’s safety files are up to date as per customer requirements and standards.Attend safety meetings on behalf of Company.Communicate with relevant sites and Management on legal updates and safety requirements.Ensure all legally required permits, licences, certificates and appointments are in place and up to date and compliant with customer requirements.Ensure legal compliance audits are conducted and all findings addressedBuild effective relationships with customers and service providers&nbsp;OTHER SPECIFICATIONSMust be healthy and able to pass medical fitness tests as prescribed by the Health &amp; Safety Act (Mining)Must be willing to travel on a regular basis for site and customer visits and audits.Must be in the position to work extra hours and weekends should the work schedule require itA competitive salary is offered and negotiable depending on experience in the above field of work.Must be from Brits or surrounding areas.Must have own transport",
+      "contact": "Rene",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002310-R",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
+      "jobTitle": "Web Developers",
+      "startDate": "2023-11-10 - 2023-12-10",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Information Technology",
+      "location": {
+        "city": ", Sandton",
+        "region": "Gauteng"
+      },
+      "details": "Minimum &amp; Ideal Qualifications:Higher-level (GS) degree in Web Application Development.Relevant Web Development certifications.0-1 years of related field experience.Proficiency in Afrikaans &amp; English&nbsp;Previous Experience:We are particularly interested in candidates with 0-1 years of experience. This position is designed for individuals looking to kickstart their career in web development.&nbsp;Salary Range:The salary range for this position is R8,000, – R15,000, dependent on your qualifications, experience, and performance in the interview.&nbsp;Additional Requirements:A reliable means of transport is necessary.This is a Junior-level role.A portfolio showcasing your previous web development projects or applications is highly desirable.If you are enthusiastic about web development, eager to learn, and have the qualifications and skills we are looking for, we encourage you to apply and take the next step in your career. Join a dynamic team that values innovation and creativity.",
+      "contact": "Rene",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002312-R",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
+      "jobTitle": "Supervisors",
+      "startDate": "2023-11-09 - 2023-12-09",
+      "vacancyType": "Permanent",
+      "jobSpecFields": "Mining",
+      "location": {
+        "city": ", Rustenburg",
+        "region": "North West"
+      },
+      "details": "Grade 12Mining ExperienceDrivers License",
+      "contact": "Dianne",
+      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002057-D",
+      "iconLink": "agency_icons/pro-personnel.jpg"
+    },
+    {
       "jobTitle": "Supervisor",
       "startDate": "2023-11-08 - 2023-12-15",
       "vacancyType": "Permanent",
@@ -157,48 +227,6 @@ export const data  = {
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {
-      "jobTitle": "Civil Supervisor",
-      "startDate": "2023-10-13 - 2023-11-12",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Construction",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Qualifications: To be a successful candidate, you should have:\n\nMatric with Tersiary Qualification\nProven experience as a Civil Supervisor with a strong emphasis on remining projects.\nIn-depth knowledge of civil engineering processes, standards, and best practices in remining.\nStrong leadership and communication skills.\nA commitment to safety and quality.\n",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002300-R",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
-      "jobTitle": "Office Admin - Interior Design",
-      "startDate": "2023-10-13 - 2023-11-12",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Other",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Relevant requirements are:&nbsp;Sound sales experience&nbsp;Strong administration skills&nbsp;Valid driver’s license&nbsp;Computer literate (MS Office Suite)&nbsp;Willingness to learn and develop within the companyTraining will be provided to candidateSalary will be discussed on interviewGeneral duties will include, but are not limited to:&nbsp;Visiting client’s houses for consultations and quotes on&nbsp;interior layout and design options&nbsp;Planning and overseeing workers with installation of&nbsp;blinds, curtains, wallpaper, including quality control&nbsp;Managing stock levels and ordering of material and stock&nbsp;Great people management skills to oversee production&nbsp;line and stock being made&nbsp;Overseeing workers in workshop&nbsp;Responsible to send info to website supplier for updating&nbsp;website, Social Media etc.",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002297-R",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
-      "jobTitle": "IT Project Manager",
-      "startDate": "2023-10-13 - 2023-11-12",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Information Technology",
-      "location": {
-        "city": ", Centurion",
-        "region": "Gauteng"
-      },
-      "details": "Required Qualifications\n\nTertiary degree, diploma or certificate in a related field (SAFE Agile, SCRUM Certification or Project Management)\nAgile Practitioner is preferred (or prepared to undertake certification soon after onboarding)\n\n&nbsp;Experience and Knowledge:\n\n6-8 years working experience in Programme or Project Management Position\nAdditional Experience in the Mining Industry or Banking Industry would be beneficial\nExperience in product lifecycle management\nSoftware Development Project Experience\nExperience in managing technology / data projects\nExperience in working with Project Management Office (PMO)\nAgile Project Delivery (Leading Tribes, Chapters, Feature Teams etc.)\n\n&nbsp;Key Responsibilities:\n\nCompiling business cases, business requirements and process maps\nCreating and Managing project schedules (including SOW, backlogs, task prioritisation and other)\nProject RAID management\nProject integration and change management\nBudget and cost management including procurement and reporting\nQuality management\nConflict management and negotiations\nCoordinate cross-functional / multi-disciplinary technical teams\nRelease and configuration Management\nSteering Committee Reporting\n\n&nbsp;Competencies:&nbsp;&nbsp;\n\nCritical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems\nActive Learning: Understanding the implications of new information for both current and future problem-solving and decision-making\nBusiness knowledge: Good understanding of the organization and the business domain or sector within which it operates\nSystems Analysis: Understanding how a system should work and how changes in conditions, operations, and the environment will affect outcomes\nComplex Problem Solving: Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions\nDeductive Reasoning: The ability to apply general rules to specific problems to produce answers that make sense\nInductive Reasoning: The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events)\nExcellent communication skills: Ability to engage with high-level stakeholders, both verbal and non-verbal\nFurther interpersonal skills needed include:\n\nFlexibility and adaptability (crucial to consulting environment)\nOrganizational and leadership abilities\nInfluencing and motivating\nDecision making\nBuilding trust and long-term relationships with stakeholders\n\n",
-      "contact": "Rene",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002298-R",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
       "jobTitle": "Call out Inhouse Technician",
       "startDate": "2023-10-13 - 2023-11-30",
       "vacancyType": "Permanent",
@@ -210,20 +238,6 @@ export const data  = {
       "details": "Package:* R15 000* 13th Cheque* Commission* 50% medical aid (Discovery) after 3 Months ProbationThe successful candidate must meet the following requirements:* Retail Experience will be an advantage* 3 - 5 Years Experience* A + &amp; N + Qualification* MCSE or MCP Qualified* Valid Drivers License&nbsp;* Own Vehicle&nbsp;* Must have an outgoing personality",
       "contact": "Michelle",
       "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002301-Du+To",
-      "iconLink": "agency_icons/pro-personnel.jpg"
-    },
-    {
-      "jobTitle": "Creditors Clerk",
-      "startDate": "2023-10-11 - 2023-11-10",
-      "vacancyType": "Permanent",
-      "jobSpecFields": "Finance",
-      "location": {
-        "city": ", Rustenburg",
-        "region": "North West"
-      },
-      "details": "Role\n\nManagement of accounts payable process which includes all creditors and sub-contractors bill capturing, reconciliations, payment allocation and age analysis.\n\nQualification\n\nMatric with accounting and studying towards an account qualification.\nFinancial qualification – advantages\n\nExperience\n\n2 to 5 years experience in similar role\n\nCompetencies\n\nGood understanding of basic bookkeeping and accounting payable principles\nGood understanding of reconciliations\nAbility to calculate, post and manage accounting figures and financial records\nExperience in processing entries within accounting software\nAdvance excel, word and outlook\nMS Team and OneDrive\nEffective verbal, written and listening communications skills\nTime management skills\nGood planning and organisation skills\nExcellent attention to detail\nAbility to work in a fast paced, pressurised environment\n\nTasks\n\nCreate suppliers / review suppliers created (CIPC, VAT and BEE).\nCapture banking details / review of banking details captured (Bank confirmation letter).\nCreate requisitions and purchase orders as require (filing of documents in electronic format).\nCapture supplier invoices into accounting system (Bills). Ensure invoices are matched against requisitions, purchase orders and goods received note. Query and resolve any discrepancies with Procurement dept.\nConfirm VAT treatment.\nObtain and capture credit notes as and when required.\nPerform supplier, sub-contractor and inter-company reconciliations and follow up on queries until resolved.\nPrepare payment batches (payment loading to bank and approval will be performed by Accountant and FD).\nSend remittance advices to all paid. Follow up and resolve any queries.\nDownload and capture bank transactions into accounting system\nAllocate payments made to creditors and suppliers.\nAge analysis extraction, review and clearing of any allocation issues and/or errors. Check aging against supplier / sub-contractor statements. Filing statements in electronic format.\nReport to Accountant on daily basis on work performed and queries.\nAdhoc tasks as required within the finance department.\n\nSalary is R12k to R15k",
-      "contact": "Dianne",
-      "apply": "https://webapp.placementpartner.com/wi/application_form.php?id=propersonnel&amp;vacancy_ref=RTB002293-D",
       "iconLink": "agency_icons/pro-personnel.jpg"
     },
     {

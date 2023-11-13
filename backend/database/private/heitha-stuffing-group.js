@@ -3,6 +3,24 @@ export const data = {
   "title": "heitha-stuffing-group",
   "blogPosts": [
     {
+      "apply": "http://www.heitha.co.za/jobs/product-development-engineer36-months",
+      "jobTitle": " Product Development Engineer (36 Months)",
+      "jobSpecFields": "Government",
+      "details": "Purpose, the primary purpose of the  Product Development Engineer is to develop a product development pipeline to track the status of various initiatives.             Minimum Requirements, National Diploma or Degree in Engineering e.g. BSc Engineering (Light Current). Minimum 3 years' experience in ICT product development.",
+      "province": "Gauteng",
+      "expiryDate": "Expiry Date: 2023-11-30 00:00:00",
+      "iconLink": "agency_icons/heitha-stuffing-group.png"
+    },
+    {
+      "apply": "http://www.heitha.co.za/jobs/senior-marketing-manager-12-months",
+      "jobTitle": " Senior Marketing Manager (12 Months)",
+      "jobSpecFields": "Government",
+      "details": "Purpose, the primary purpose of the Marketing Manager is develop and execute marketing campaigns and strategies across a variety of channels to help increase brand awareness and drive sales.             Minimum Requirements   Degree or equivalent in Marketing Management, Commerce or Business Management qualification.  more than 5 years’ experience in a similar role.  Preferably at least 3 years’ experience within the broadband/ ICT/ telecommunications.",
+      "province": "Gauteng",
+      "expiryDate": "Expiry Date: 2023-11-30 00:00:00",
+      "iconLink": "agency_icons/heitha-stuffing-group.png"
+    },
+    {
       "apply": "http://www.heitha.co.za/jobs/investment-officer-4-months",
       "jobTitle": " Investment Officer ( 4 Months )",
       "jobSpecFields": "Government",
@@ -30,7 +48,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/jobs/programme-manager-social-infrastructure-6-months",
+      "apply": "http://www.heitha.co.za/?page=2jobs/programme-manager-social-infrastructure-6-months",
       "jobTitle": " Programme Manager: Social Infrastructure (6 Months)",
       "jobSpecFields": "Government",
       "details": "Purpose  To provide leadership and oversight for the planning, implementation and reporting of social infrastructure programmes falling within a defined sector.             Minimum Requirements  Bachelors’ degree in the Built Environment i.e. Building Architecture, Quantity Surveying, Civil Engineering,             A minimum of 6 years’ Project / Programme management experience in the Build environment including 3 years in a management role.",
@@ -39,7 +57,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/jobs/senior-market-conduct-specialist",
+      "apply": "http://www.heitha.co.za/?page=2jobs/senior-market-conduct-specialist",
       "jobTitle": " (Senior Specialist) in the Market Conduct Division",
       "jobSpecFields": "Finance",
       "details": "Purpose  The primary objective of this role is to promote a regulatory environment that will enable the banks to continue to provide competitive, sustainable, and customer-centric financial services and products.             Minimum Requirements  Bachelor's degree in Legal, Business, Finance or related field. Minimum of 5-7 years of banking / market conduct experience. In-depth knowledge of South African banking market conduct legislation.             Main Duties  Legislation and Regulatory Oversight  Enable BASA to be the “Voice of the Industry” of the banking sector through formulation of positions on critical regulatory and supervisory issues.",
@@ -75,7 +93,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=2jobs/compliance-specialist-cmu",
+      "apply": "http://www.heitha.co.za/?page=3jobs/compliance-specialist-cmu",
       "jobTitle": " Compliance Specialist (CMU)",
       "jobSpecFields": "Government",
       "details": "Provide guidance and direction on complex financial services, designated non-financial businesses and professions and related matters to Supervisory Bodies, regulated institutions and relevant stakeholders in the Financial Servicesand Non-Financial sector             A Relevant University degree and working towards post-graduate (e.g., LLB, BCOM or Information Systems)  Post graduate Compliance Management qualification. (CAMS certification preferred).             Respond to highly complex compliance queries where required. Present to stakeholders on highly complex matters e.g. JSE members, and provide expert input into written material. Provide expert advice on highly complex guidance products, including directive",
@@ -84,7 +102,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=2jobs/claims-controller-4-months",
+      "apply": "http://www.heitha.co.za/?page=3jobs/claims-controller-4-months",
       "jobTitle": " Claims Controller (4 Months)",
       "jobSpecFields": "Insurance",
       "details": "Purpose  The Claims Controller will collate records and examine information to assist in determining claim settlements, within the governed framework to ensure compliance with the short term insurance regulations.             Minimum Requirements  Higher Certificate in Insurance (NQF5) is preferable. Tertiary education is preferable. 3 – 5 years experience in a Claims position of Short term Insurance company.",
@@ -120,7 +138,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=3jobs/technical-trainer",
+      "apply": "http://www.heitha.co.za/?page=4jobs/technical-trainer",
       "jobTitle": " Technical Trainer",
       "jobSpecFields": "Other",
       "details": "Purpose  Technical Training is required to facilitate the knowledge and skills transfer of technical expertise to the technical population within the client’s repair network,             Relevant qualification. A minimum of 5 years' experience as a training officer in the automotive industry.",
@@ -129,7 +147,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=3jobs/non-technical-trainer",
+      "apply": "http://www.heitha.co.za/?page=4jobs/non-technical-trainer",
       "jobTitle": " Non-Technical Trainer",
       "jobSpecFields": "Other",
       "details": "Purpose  To contribute to the development of training plans and schedules to achieve client targets.             Relevant qualification. A minimum of 5 years' experience as a training officer in the automotive industry.",
@@ -165,7 +183,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=4jobs/finance-operations-manager",
+      "apply": "http://www.heitha.co.za/?page=5jobs/finance-operations-manager",
       "jobTitle": " Finance Operations Manager",
       "jobSpecFields": "Other",
       "details": "The Finance Operations Manager role is to support the Chief Financial Officer in developing financial strategies, fixing operations (implementation of redefined processes and systems); dealing with day-to-day operational requests from business.             Minimum requirements   Bachelor’s degree in finance / accounting  5 years working experience in a finance department.  3 years in management level",
@@ -174,7 +192,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=4jobs/senior-finance-manager",
+      "apply": "http://www.heitha.co.za/?page=5jobs/senior-finance-manager",
       "jobTitle": " Senior Finance Manager",
       "jobSpecFields": "Insurance",
       "details": "The Senior Finance Manager will be responsible for the general ledger accounting, taxation, reporting and ad hoc issues.             Minimum requirements:  B. Com Degree Honours in Accounting Must have CISA qualification. CA (SA)             Main Duties:   Strategic Alignment, Operational, Statutory Reporting, Budgeting and financial responsibilities.",
@@ -210,7 +228,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=5jobs/deputy-chief-party-quality-hivtb-services",
+      "apply": "http://www.heitha.co.za/?page=6jobs/deputy-chief-party-quality-hivtb-services",
       "jobTitle": " Deputy Chief of Party: Quality HIV/TB Services",
       "jobSpecFields": "Other",
       "details": "We are looking for a dynamic senior leader with a minimum of 10 years of experience working in the Public Health sector within HIV/TB/PMTCT programmes to join our team as a deputy chief of party: quality HIV/TB Care.             The incumbent will serve as the senior manager of technical program specialists, community HTS program and other special projects (Private Sector/ NHI).",
@@ -219,7 +237,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=5jobs/head-division",
+      "apply": "http://www.heitha.co.za/?page=6jobs/head-division",
       "jobTitle": " Head of Division",
       "jobSpecFields": "Other",
       "details": "Responsible for overall management & oversight of the company programme in the City of Johannesburg.             Together with the District Programme Managers & their teams, the successful candidate will provide overall programme leadership, as well as develop & monitor various projects aimed at achieving set programme targets.",
@@ -255,7 +273,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=6jobs/customer-experience-designer",
+      "apply": "http://www.heitha.co.za/?page=7jobs/customer-experience-designer",
       "jobTitle": " Customer Experience: Designer",
       "jobSpecFields": "Finance",
       "details": "Providing strategic thought leadership and tactical advice on a range of customer facing projects. Developing customer profiles and personas, and advising on all aspects of using customer insights data.             Using a variety of techniques to effectively engage with internal and external customers. Supporting stakeholders in process and system improvement initiatives focusing on behaviour change, reducing red tape and enhancing customer experience.",
@@ -264,7 +282,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=6jobs/financial-crime-surveillance-officer",
+      "apply": "http://www.heitha.co.za/?page=7jobs/financial-crime-surveillance-officer",
       "jobTitle": " Financial Crime Surveillance Officer",
       "jobSpecFields": "Finance",
       "details": "The incumbent is primarily charged with the responsibility to identify suspicious and and/or unusual transactions through the automated transaction monitoring system.             Must also assist in identifying opportunities to develop new monitoring rules in conjunction with the AML/CFT Compliance Team, drive the implement of new rules and review the current monitoring rules to ensure their accuracy and effectiveness.             Degree in Law, Forensics Investigation. 3 years AML.CFT, Compliance, Investigations experience within the banking or financial services sector, liaison at Executive level.",
@@ -300,7 +318,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=7jobs/financial-accounting-manager",
+      "apply": "http://www.heitha.co.za/?page=8jobs/financial-accounting-manager",
       "jobTitle": " Financial Accounting Manager",
       "jobSpecFields": "Insurance",
       "details": "The Financial Accounting Manager will provide financial accounting support to the business, ensuring that the financial strategy is implemented in line with company objectives and financial risk is properly mitigated by sound and proactive controls.             (Bcom/ BAcc) qualification. 3 years article experience. CA(SA). 3 years post article experience in a similar role in Financial Services. Preferrable non-life insurance experience.",
@@ -309,7 +327,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=7jobs/system-tester",
+      "apply": "http://www.heitha.co.za/?page=8jobs/system-tester",
       "jobTitle": " System Tester",
       "jobSpecFields": "Finance",
       "details": "Analysis of Credit Card processes on Production. Provide feedback and suggestions to system specialist.l Logging of change requests and operational incidents, and monitor and report on progress throughout entire process.             Assist with User Acceptance testing for specific Credit Card changes as required. Perform regression testing over Credit Card system during release cycle.",
@@ -345,7 +363,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=8jobs/solution-architect",
+      "apply": "http://www.heitha.co.za/?page=9jobs/solution-architect",
       "jobTitle": " Solution Architect",
       "jobSpecFields": "Government",
       "details": "To design technology solutions for the organisation by defining integrated solution architectures that are aligned with IT strategies and architectures to meet and support the organisation’s goals.             Relevant postgraduate degree in Computer Science or equivalent  TOGAF Certification is a requirement. Knowledge of other frameworks (e.g., Zachman) would be an advantage.             Minimum ten years experience working in development and integration of large-scale solutions involving multiple technologies, functions, and interfaces across in-house and vendor supplied system.",
@@ -354,7 +372,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=8jobs/business-analyst-fintech",
+      "apply": "http://www.heitha.co.za/?page=9jobs/business-analyst-fintech",
       "jobTitle": " Business Analyst (FINTECH)",
       "jobSpecFields": "Finance",
       "details": "The Business Analyst will enable Fintech Banking as a key subject matter expert in the onboarding of any new business, payments and or product lines.             Support the business and play a significant role in the analysis, design, development and testing of any new fintech partners.             Work closely with business and corporate customers, including internal value chain stakeholders, ensuring the successfully delivery of projects.",
@@ -390,7 +408,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=9jobs/project-accountant",
+      "apply": "http://www.heitha.co.za/?page=10jobs/project-accountant",
       "jobTitle": " Project Accountant",
       "jobSpecFields": "Other",
       "details": "To monitor and report on financial progress of projects, undertake project financial reconciliations, approve expenses, and ensure that project invoices are issued to customers and payments collected.             Minimum of a Bachelor’s degree in Accounting or Finance.             Minimum of 6 years relevant work experience in financial management environment 3 of which should have been in financial and/or project accounting. Computer literate.",
@@ -399,7 +417,7 @@ export const data = {
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     },
     {
-      "apply": "http://www.heitha.co.za/?page=9jobs/senior-project-technical-integration-manager",
+      "apply": "http://www.heitha.co.za/?page=10jobs/senior-project-technical-integration-manager",
       "jobTitle": " Senior Project & Technical Integration Manager",
       "jobSpecFields": "Finance",
       "details": "Project manage various new business opportunities and products being onboarded by Fintech Banking; Play a leadership role and the technical integration between the Bank’s value chain and partners or 3rd parties.             Support the Head: Fintech Banking and Relationships in executing the approved strategy in expanding the core through Alliance Eco-systems.             Support management in establishing the business model blueprint, operating model and frameworks.",
@@ -432,24 +450,6 @@ export const data = {
       "details": "Designing, developing and maintaining BI and web solutions. Writing and executing queries upon request for data. Presenting information through reports and visualization.             BSc or B.Com(IT) qualification, or equivalent. Proven experience as a BI Developer; Industry experience 5yrs or more is preferred. C#, Windows development and asp.net web application development.             Experience in developing 3tier solutions. Experience in development practices like test-driven development, continuous integration, and continuous deployment.",
       "province": "Gauteng",
       "expiryDate": "Expiry Date: 2023-09-06 11:58:35",
-      "iconLink": "agency_icons/heitha-stuffing-group.png"
-    },
-    {
-      "apply": "http://www.heitha.co.za/?page=10jobs/office-manager",
-      "jobTitle": " Office Manager (Nelspruit)",
-      "jobSpecFields": "Other",
-      "details": "As an Office Manager you will be required to offer secretarial service and support to the Principal Officer. Manage the administration of the Principal Officer’s office and Scheme’s Head Office.             A National Diploma in Office Administration. A degree in Business Administration or Business Management at an NQF Level 6 would be an added advantage. 2-3 years of experience in an office management role. 1-2 years Management experience.",
-      "province": "Mpumalanga",
-      "expiryDate": "Expiry Date: 2023-08-29 10:13:59",
-      "iconLink": "agency_icons/heitha-stuffing-group.png"
-    },
-    {
-      "apply": "http://www.heitha.co.za/?page=10jobs/dialler-administrator",
-      "jobTitle": " Dialler Administrator",
-      "jobSpecFields": "Finance",
-      "details": "To manager and administer the dialler and telephony systems within the call centre to optimize call campaigns and agent productivity.             Matric. Relevant Diploma or Degree. 1 year working experience in Call Centre on Predictive diallers, Call Logging and Telephony systems.",
-      "province": "Gauteng",
-      "expiryDate": "Expiry Date: 2023-08-28 06:36:24",
       "iconLink": "agency_icons/heitha-stuffing-group.png"
     }
   ]
