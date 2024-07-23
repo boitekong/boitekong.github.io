@@ -1,33 +1,32 @@
 {
-    "short_name": "Boitekong Eats",
-    "name": "Boitekong Eats",
-    "description": "Welcome to Boitekong Eats,  We specialize in offering a variety of delicious homemade dishes and drinks, all available for prepaid order & deliver",
+    "short_name": "Boitekong Job Board",
+    "name": "Boitekong Job Board",
+    "description": "Boitekong Job Board: Connecting you with diverse job opportunities in the public and private sectors. Explore your career path in the South African Market.",
     "author": "K.T Motshoana",
     "lang": "en-US",
     "start_url": ".",
-    "background_color": "#f4f5d4",
-    "theme_color": "#3fcefa",
+    "background_color": "#dadada96",
+    "theme_color": "#6ba1f4",
     "scope": "/",
     "display": "standalone",
     "icons": [
       {
-        "src": "./assets/icons/144.png",
+        "src": "./assets/icons/144.jpg",
         "type": "image/png",
         "sizes": "144x144",
-        "purpose": "maskable any"
+        "purpose": " maskable any"
       },
       {
-        "src": "./assets/icons/192.png",
+        "src": "./assets/icons/192.jpg",
         "type": "image/png",
         "sizes": "192x192",
-        "purpose": "maskable any"
+        "purpose": " maskable any"
       },
       {
-        "src": "./assets/icons/512.png",
+        "src": "./assets/icons/512.jpg",
         "type": "image/png",
         "sizes": "512x512",
-        "purpose": "maskable any"
+        "purpose": " maskable any"
       }
     ]
   }
-  

@@ -1,50 +1,68 @@
-/**
- @description This service worker handles the caching of assets dynamically.
- @installEvent Caches the assets dynamically as they are fetched.
- @activateEvent Clears old caches when a new version is activated.
- @fetchEvent Serves cached assets if available, otherwise fetches from the network and caches them dynamically.
+const cacheName = "Boiteokng Job Board";
 
- */
-const cacheName = "BoitekongEats@v1";
-self.addEventListener("install", event => {
+self.addEventListener("install", (e) => {
+  e.waitUntil(
+    (function () {
+      Promise.all([
+        getMatchingFiles(
+          "./assets/icons",
+          /href\s*=\s*['"]([^'"]*\.jpg)['"]/gi
+        ),
+        getMatchingFiles(
+          "./assets/images",
+          /href\s*=\s*['"]([^'"]*\.jpg)['"]/gi
+        ),
+        getMatchingFiles(
+          "./assets/agency_icons",
+          /href\s*=\s*['"]([^'"]*\.(jpg|jpeg|png))['"]/gi
+        ),
+        getMatchingFiles("./assets", /href\s*=\s*['"]([^'"]*\.(css|js))['"]/gi),
+        getMatchingFiles("/", /href\s*=\s*['"]([^'"]*\.(json))['"]/gi)
+      ])
+        .then((values) => {
+          let cacheItems = ["/"];
+          cacheItems = cacheItems.concat(...values);
+          let uniqueRequests = [...new Set(cacheItems)];
+
+          caches.open(cacheName).then((cache) => cache.addAll(uniqueRequests));
+        })
+        .catch((err) => console.error(err));
+    })()
+  );
+
   self.skipWaiting();
 });
 
-self.addEventListener("activate", event => {
-  event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return Promise.all(
-        cacheNames.map(name => {
-          if (name !== cacheName) {
-            return caches.delete(name);
-          }
-        })
-      );
-    })
-  );
-  console.log("Service worker is active!");
+self.addEventListener("active", () => {
+  console.log("service worker is active!");
+});
+self.addEventListener("fetch", () => {
+  console.log("service worker ready to fetch data.");
 });
 
-self.addEventListener("fetch", event => {
-  event.respondWith(
-    caches
-      .match(event.request)
-      .then(response => {
-        if (response) {
-          return response;
+function getMatchingFiles(directory, regex) {
+  return new Promise(function (resolve, reject) {
+    fetch(directory)
+      .then(function (response) {
+        if (!response.ok) {
+          throw new Error("Failed to fetch directory");
         }
-        return fetch(event.request).then(networkResponse => {
-          return caches.open(cacheName).then(cache => {
-            // Cache the new file dynamically
-            cache.put(event.request, networkResponse.clone());
-            return networkResponse;
-          });
+        return response.text();
+      })
+      .then(function (html) {
+        // let pattern = /href\s*=\s*['"]([^'"]*\.png)['"]/gi;
+
+        const fileMatches = html.match(regex);
+
+        if (!fileMatches || fileMatches.length === 0) {
+          resolve([]);
+        }
+        const files = fileMatches.map(function (match) {
+          return match.replace(/.*href="(.*)"/i, "$1");
         });
+
+        resolve(files);
       })
-      .catch(error => {
-        console.error("Fetching failed:", error);
-        throw error;
-      })
-  );
-  console.log("Service worker ready to fetch data.");
-});
+      .catch(reject);
+  });
+}
