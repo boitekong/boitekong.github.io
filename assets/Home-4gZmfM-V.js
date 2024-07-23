@@ -1,7 +1,0 @@
-import{_ as l}from"./index-t4CPEKsb.js";import{r as n,R as t}from"./vendor-AJt8eDY0.js";function a(o,e="smooth"){o.scrollIntoView({behaviour:e}),o.focus()}function f(o,e,r){o?e.classList.add(r):e.classList.remove(r)}const s=n.lazy(()=>l(()=>import("./Nav-XgK766UA.js"),__vite__mapDeps([0,1,2,3]))),c=n.lazy(()=>l(()=>import("./InfoBanner-ncQioQS_.js"),__vite__mapDeps([4,1,5,2,3]))),_=n.lazy(()=>l(()=>import("./AboutPlatform-xpCYaTC9.js"),__vite__mapDeps([6,1,2,3]))),i=n.lazy(()=>l(()=>import("./JobBoard-2VXlVebU.js"),__vite__mapDeps([7,1,8,2,3])));function u(){return n.useEffect(()=>{if(location.hash.length>0){const o=location.hash,e=document.querySelector(o);e&&a(e)}},[]),t.createElement(t.Fragment,null,t.createElement(n.Suspense,{className:"loadingDiv"},t.createElement(c,null),t.createElement(_,null),t.createElement(i,null),t.createElement(s,null)))}const d=Object.freeze(Object.defineProperty({__proto__:null,default:u},Symbol.toStringTag,{value:"Module"}));export{d as H,a as s,f as t};
-function __vite__mapDeps(indexes) {
-  if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/Nav-XgK766UA.js","assets/vendor-AJt8eDY0.js","assets/index-t4CPEKsb.js","assets/index-l2Ptg110.css","assets/InfoBanner-ncQioQS_.js","assets/share-GLoeCvUs.js","assets/AboutPlatform-xpCYaTC9.js","assets/JobBoard-2VXlVebU.js","assets/isObject-FVN2IN1r.js"]
-  }
-  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
-}
