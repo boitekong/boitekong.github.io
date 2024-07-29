@@ -1,0 +1,7 @@
+import{_ as l}from"./index-ejCXFWp1.js";import{r as n,R as t}from"./vendor-AJt8eDY0.js";function a(o,e="smooth"){o.scrollIntoView({behaviour:e}),o.focus()}function f(o,e,r){o?e.classList.add(r):e.classList.remove(r)}const s=n.lazy(()=>l(()=>import("./Nav-f-m0rqP_.js"),__vite__mapDeps([0,1,2,3]))),c=n.lazy(()=>l(()=>import("./InfoBanner-YQwkVGwt.js"),__vite__mapDeps([4,1,5,2,3]))),_=n.lazy(()=>l(()=>import("./AboutPlatform-LdozIDpH.js"),__vite__mapDeps([6,1,2,3]))),i=n.lazy(()=>l(()=>import("./JobBoard-bih2hzhb.js"),__vite__mapDeps([7,1,8,2,3])));function u(){return n.useEffect(()=>{if(location.hash.length>0){const o=location.hash,e=document.querySelector(o);e&&a(e)}},[]),t.createElement(t.Fragment,null,t.createElement(n.Suspense,{className:"loadingDiv"},t.createElement(c,null),t.createElement(_,null),t.createElement(i,null),t.createElement(s,null)))}const d=Object.freeze(Object.defineProperty({__proto__:null,default:u},Symbol.toStringTag,{value:"Module"}));export{d as H,a as s,f as t};
+function __vite__mapDeps(indexes) {
+  if (!__vite__mapDeps.viteFileDeps) {
+    __vite__mapDeps.viteFileDeps = ["assets/Nav-f-m0rqP_.js","assets/vendor-AJt8eDY0.js","assets/index-ejCXFWp1.js","assets/index-l2Ptg110.css","assets/InfoBanner-YQwkVGwt.js","assets/share-GLoeCvUs.js","assets/AboutPlatform-LdozIDpH.js","assets/JobBoard-bih2hzhb.js","assets/isObject-FVN2IN1r.js"]
+  }
+  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
+}
