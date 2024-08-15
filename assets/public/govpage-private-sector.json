@@ -1,0 +1,130 @@
+{
+    "title": "govpage-private-sector",
+    "blogPosts": [
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/afrimat_orig.png",
+            "href": "https://www.govpage.co.za/private-sector-jobs/afrimat-is-hiring1467002",
+            "title": "AFRIMAT IS HIRING",
+            "content": [],
+            "postedDate": "15/8/2024",
+            "iframe": "",
+            "uuid": "gov-0a5ae429-10b3-4cb7-a608-165ab69fd2c2"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/old-khaki_orig.png",
+            "href": "https://www.govpage.co.za/private-sector-jobs/old-khakhi-is-hiring",
+            "title": "OLD KHAKHI IS HIRING",
+            "content": [],
+            "postedDate": "5/8/2024",
+            "iframe": "",
+            "uuid": "gov-c50751ba-8e72-4bcc-bffe-693c85fdf26f"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/four-seasons-hotels-resorts_orig.png",
+            "href": "https://www.govpage.co.za/private-sector-jobs/four-seasons-hotel-is-hiring",
+            "title": "FOUR SEASONS HOTEL IS HIRING",
+            "content": [],
+            "postedDate": "5/8/2024",
+            "iframe": "",
+            "uuid": "gov-b0c34867-bff1-4898-bb77-8557e93839b1"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/published/271850758-950050092318914-1039599084442007153-n.jpg?1721709808",
+            "href": "https://www.govpage.co.za/private-sector-jobs/pedros-is-hiring",
+            "title": "PEDROS IS HIRING",
+            "content": [],
+            "postedDate": "23/7/2024",
+            "iframe": "",
+            "uuid": "gov-447130d9-83b0-42dd-8764-a229eed0b7d6"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/screenshot-2024-07-22-at-04-45-17_orig.png",
+            "href": "https://www.govpage.co.za/private-sector-jobs/sbv-is-hiring",
+            "title": "SBV IS HIRING",
+            "content": [],
+            "postedDate": "22/7/2024",
+            "iframe": "",
+            "uuid": "gov-05036235-e250-42ef-8a0a-60ebbea291b3"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/woolworths_orig.jpg",
+            "href": "https://www.govpage.co.za/private-sector-jobs/woolworths-is-hiring4187031",
+            "title": "WOOLWORTHS IS HIRING",
+            "content": [],
+            "postedDate": "18/7/2024",
+            "iframe": "",
+            "uuid": "gov-851d4eb6-ea91-49bd-bf24-f2bae0a9bc81"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/vw-group-sa_orig.gif",
+            "href": "https://www.govpage.co.za/private-sector-jobs/volkswagen-group-is-hiring",
+            "title": "VOLKSWAGEN GROUP IS HIRING",
+            "content": [],
+            "postedDate": "15/7/2024",
+            "iframe": "",
+            "uuid": "gov-eab96761-2356-44c9-8ddf-c54307ca7e13"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/published/gold-fields-logo-svg.png?1716762063",
+            "href": "https://www.govpage.co.za/private-sector-jobs/gold-fields-is-hiring",
+            "title": "GOLD FIELDS IS HIRING",
+            "content": [],
+            "postedDate": "27/5/2024",
+            "iframe": "",
+            "uuid": "gov-91b15c8d-942f-4b5f-a856-9144b06c403a"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/glencore_orig.jpg",
+            "href": "https://www.govpage.co.za/private-sector-jobs/glencore-is-hiring5185584",
+            "title": "GLENCORE IS HIRING",
+            "content": [],
+            "postedDate": "23/5/2024",
+            "iframe": "",
+            "uuid": "gov-91058894-151f-4217-8c94-910f3f5c9e7d"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/de-beers-group_orig.png",
+            "href": "https://www.govpage.co.za/private-sector-jobs/de-beers-group-is-hiring6012171",
+            "title": "DE BEERS GROUP IS HIRING",
+            "content": [],
+            "postedDate": "8/7/2024",
+            "iframe": "",
+            "uuid": "gov-cc1eb1a0-9a4a-4801-b822-fc6fb19ee771"
+        },
+        {
+            "imgSrc": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/clicks-group-limited_orig.png",
+            "href": "https://www.govpage.co.za/private-sector-jobs/clicks-group-limited-is-hiring5039000",
+            "title": "CLICKS GROUP LIMITED IS HIRING",
+            "content": [],
+            "postedDate": "4/7/2024",
+            "iframe": "",
+            "uuid": "gov-b5b9f5a7-0f2e-42f8-84f4-f450b8033bf7"
+        }
+    ],
+    "departments": {},
+    "businesses": {
+        "afrimat is hiring": "https://www.govpage.co.za/private-sector-jobs/afrimat-is-hiring1467002",
+        "old khakhi is hiring": "https://www.govpage.co.za/private-sector-jobs/old-khakhi-is-hiring",
+        "four seasons hotel is hiring": "https://www.govpage.co.za/private-sector-jobs/four-seasons-hotel-is-hiring",
+        "pedros is hiring": "https://www.govpage.co.za/private-sector-jobs/pedros-is-hiring",
+        "sbv is hiring": "https://www.govpage.co.za/private-sector-jobs/sbv-is-hiring",
+        "woolworths is hiring": "https://www.govpage.co.za/private-sector-jobs/woolworths-is-hiring4187031",
+        "volkswagen group is hiring": "https://www.govpage.co.za/private-sector-jobs/volkswagen-group-is-hiring",
+        "gold fields is hiring": "https://www.govpage.co.za/private-sector-jobs/gold-fields-is-hiring",
+        "glencore is hiring": "https://www.govpage.co.za/private-sector-jobs/glencore-is-hiring5185584",
+        "de beers group is hiring": "https://www.govpage.co.za/private-sector-jobs/de-beers-group-is-hiring6012171",
+        "clicks group limited is hiring": "https://www.govpage.co.za/private-sector-jobs/clicks-group-limited-is-hiring5039000",
+        "netcare is hiring": "https://www.govpage.co.za/private-sector-jobs/netcare-is-hiring8517825",
+        "tsogo sun is hiring": "https://www.govpage.co.za/private-sector-jobs/june-21st-2024",
+        "heineken beverages is hiring": "https://www.govpage.co.za/private-sector-jobs/heineken-beverages-is-hiring6377091",
+        "omoda is hiring": "https://www.govpage.co.za/private-sector-jobs/omoda-is-hiring",
+        "tiger brands is hiring": "https://www.govpage.co.za/private-sector-jobs/tiger-brands-is-hiring8362853",
+        "old mutual is hiring": "https://www.govpage.co.za/private-sector-jobs/old-mutual-is-hiring4538730",
+        "unilever is hiring": "https://www.govpage.co.za/private-sector-jobs/unilever-is-hiring4756500",
+        "takealot is hiring": "https://www.govpage.co.za/private-sector-jobs/takealot-is-hiring8119691",
+        "nestle is hiring": "https://www.govpage.co.za/private-sector-jobs/nestle-is-hiring2197750",
+        "bat south africa is hiring": "https://www.govpage.co.za/private-sector-jobs/bat-south-africa-is-hiring6247942",
+        "spitz is hiring": "https://www.govpage.co.za/private-sector-jobs/spitz-is-hiring5937277",
+        "discovery is hiring": "https://www.govpage.co.za/private-sector-jobs/discovery-is-hiring8553767"
+    }
+}
