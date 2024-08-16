@@ -1,0 +1,174 @@
+[
+    {
+        "file": "1.pdf",
+        "images": [
+            "./assets/pdf_images/1/1_page_1.png",
+            "./assets/pdf_images/1/1_page_2.png"
+        ]
+    },
+    {
+        "file": "10.pdf",
+        "images": [
+            "./assets/pdf_images/10/10_page_1.png",
+            "./assets/pdf_images/10/10_page_2.png"
+        ]
+    },
+    {
+        "file": "11.pdf",
+        "images": [
+            "./assets/pdf_images/11/11_page_1.png",
+            "./assets/pdf_images/11/11_page_2.png"
+        ]
+    },
+    {
+        "file": "12.pdf",
+        "images": [
+            "./assets/pdf_images/12/12_page_1.png"
+        ]
+    },
+    {
+        "file": "13.pdf",
+        "images": [
+            "./assets/pdf_images/13/13_page_1.png"
+        ]
+    },
+    {
+        "file": "14.pdf",
+        "images": [
+            "./assets/pdf_images/14/14_page_1.png",
+            "./assets/pdf_images/14/14_page_2.png"
+        ]
+    },
+    {
+        "file": "15.pdf",
+        "images": [
+            "./assets/pdf_images/15/15_page_1.png",
+            "./assets/pdf_images/15/15_page_2.png"
+        ]
+    },
+    {
+        "file": "16.pdf",
+        "images": [
+            "./assets/pdf_images/16/16_page_1.png",
+            "./assets/pdf_images/16/16_page_2.png"
+        ]
+    },
+    {
+        "file": "17.pdf",
+        "images": [
+            "./assets/pdf_images/17/17_page_1.png",
+            "./assets/pdf_images/17/17_page_2.png"
+        ]
+    },
+    {
+        "file": "18.pdf",
+        "images": [
+            "./assets/pdf_images/18/18_page_1.png"
+        ]
+    },
+    {
+        "file": "19.pdf",
+        "images": [
+            "./assets/pdf_images/19/19_page_1.png"
+        ]
+    },
+    {
+        "file": "2.pdf",
+        "images": [
+            "./assets/pdf_images/2/2_page_1.png",
+            "./assets/pdf_images/2/2_page_2.png"
+        ]
+    },
+    {
+        "file": "20.pdf",
+        "images": [
+            "./assets/pdf_images/20/20_page_1.png",
+            "./assets/pdf_images/20/20_page_2.png",
+            "./assets/pdf_images/20/20_page_3.png",
+            "./assets/pdf_images/20/20_page_4.png"
+        ]
+    },
+    {
+        "file": "21.pdf",
+        "images": [
+            "./assets/pdf_images/21/21_page_1.png",
+            "./assets/pdf_images/21/21_page_2.png",
+            "./assets/pdf_images/21/21_page_3.png"
+        ]
+    },
+    {
+        "file": "22.pdf",
+        "images": [
+            "./assets/pdf_images/22/22_page_1.png",
+            "./assets/pdf_images/22/22_page_2.png"
+        ]
+    },
+    {
+        "file": "23.pdf",
+        "images": [
+            "./assets/pdf_images/23/23_page_1.png",
+            "./assets/pdf_images/23/23_page_2.png"
+        ]
+    },
+    {
+        "file": "24.pdf",
+        "images": [
+            "./assets/pdf_images/24/24_page_1.png",
+            "./assets/pdf_images/24/24_page_2.png"
+        ]
+    },
+    {
+        "file": "25.pdf",
+        "images": [
+            "./assets/pdf_images/25/25_page_1.png"
+        ]
+    },
+    {
+        "file": "3.pdf",
+        "images": [
+            "./assets/pdf_images/3/3_page_1.png",
+            "./assets/pdf_images/3/3_page_2.png"
+        ]
+    },
+    {
+        "file": "4.pdf",
+        "images": [
+            "./assets/pdf_images/4/4_page_1.png",
+            "./assets/pdf_images/4/4_page_2.png"
+        ]
+    },
+    {
+        "file": "5.pdf",
+        "images": [
+            "./assets/pdf_images/5/5_page_1.png",
+            "./assets/pdf_images/5/5_page_2.png"
+        ]
+    },
+    {
+        "file": "6.pdf",
+        "images": [
+            "./assets/pdf_images/6/6_page_1.png",
+            "./assets/pdf_images/6/6_page_2.png"
+        ]
+    },
+    {
+        "file": "7.pdf",
+        "images": [
+            "./assets/pdf_images/7/7_page_1.png",
+            "./assets/pdf_images/7/7_page_2.png"
+        ]
+    },
+    {
+        "file": "8.pdf",
+        "images": [
+            "./assets/pdf_images/8/8_page_1.png"
+        ]
+    },
+    {
+        "file": "9.pdf",
+        "images": [
+            "./assets/pdf_images/9/9_page_1.png",
+            "./assets/pdf_images/9/9_page_2.png"
+        ]
+    }
+]
