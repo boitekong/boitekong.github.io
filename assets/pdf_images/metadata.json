@@ -1,0 +1,307 @@
+[
+    {
+        "file": "1.pdf",
+        "images": [
+            "./assets/pdf_images/1/1_page_1.png",
+            "./assets/pdf_images/1/1_page_2.png"
+        ]
+    },
+    {
+        "file": "10.pdf",
+        "images": [
+            "./assets/pdf_images/10/10_page_1.png",
+            "./assets/pdf_images/10/10_page_2.png"
+        ]
+    },
+    {
+        "file": "11.pdf",
+        "images": [
+            "./assets/pdf_images/11/11_page_1.png",
+            "./assets/pdf_images/11/11_page_2.png"
+        ]
+    },
+    {
+        "file": "12.pdf",
+        "images": [
+            "./assets/pdf_images/12/12_page_1.png"
+        ]
+    },
+    {
+        "file": "13.pdf",
+        "images": [
+            "./assets/pdf_images/13/13_page_1.png",
+            "./assets/pdf_images/13/13_page_2.png"
+        ]
+    },
+    {
+        "file": "14.pdf",
+        "images": [
+            "./assets/pdf_images/14/14_page_1.png",
+            "./assets/pdf_images/14/14_page_2.png"
+        ]
+    },
+    {
+        "file": "15.pdf",
+        "images": [
+            "./assets/pdf_images/15/15_page_1.png",
+            "./assets/pdf_images/15/15_page_2.png"
+        ]
+    },
+    {
+        "file": "16.pdf",
+        "images": [
+            "./assets/pdf_images/16/16_page_1.png",
+            "./assets/pdf_images/16/16_page_2.png"
+        ]
+    },
+    {
+        "file": "17.pdf",
+        "images": [
+            "./assets/pdf_images/17/17_page_1.png"
+        ]
+    },
+    {
+        "file": "18.pdf",
+        "images": [
+            "./assets/pdf_images/18/18_page_1.png"
+        ]
+    },
+    {
+        "file": "19.pdf",
+        "images": [
+            "./assets/pdf_images/19/19_page_1.png"
+        ]
+    },
+    {
+        "file": "2.pdf",
+        "images": [
+            "./assets/pdf_images/2/2_page_1.png"
+        ]
+    },
+    {
+        "file": "20.pdf",
+        "images": [
+            "./assets/pdf_images/20/20_page_1.png"
+        ]
+    },
+    {
+        "file": "21.pdf",
+        "images": [
+            "./assets/pdf_images/21/21_page_1.png",
+            "./assets/pdf_images/21/21_page_2.png"
+        ]
+    },
+    {
+        "file": "22.pdf",
+        "images": [
+            "./assets/pdf_images/22/22_page_1.png",
+            "./assets/pdf_images/22/22_page_2.png"
+        ]
+    },
+    {
+        "file": "23.pdf",
+        "images": [
+            "./assets/pdf_images/23/23_page_1.png",
+            "./assets/pdf_images/23/23_page_2.png"
+        ]
+    },
+    {
+        "file": "24.pdf",
+        "images": [
+            "./assets/pdf_images/24/24_page_1.png"
+        ]
+    },
+    {
+        "file": "25.pdf",
+        "images": [
+            "./assets/pdf_images/25/25_page_1.png",
+            "./assets/pdf_images/25/25_page_2.png"
+        ]
+    },
+    {
+        "file": "26.pdf",
+        "images": [
+            "./assets/pdf_images/26/26_page_1.png"
+        ]
+    },
+    {
+        "file": "27.pdf",
+        "images": [
+            "./assets/pdf_images/27/27_page_1.png"
+        ]
+    },
+    {
+        "file": "28.pdf",
+        "images": [
+            "./assets/pdf_images/28/28_page_1.png"
+        ]
+    },
+    {
+        "file": "29.pdf",
+        "images": [
+            "./assets/pdf_images/29/29_page_1.png"
+        ]
+    },
+    {
+        "file": "3.pdf",
+        "images": [
+            "./assets/pdf_images/3/3_page_1.png"
+        ]
+    },
+    {
+        "file": "30.pdf",
+        "images": [
+            "./assets/pdf_images/30/30_page_1.png"
+        ]
+    },
+    {
+        "file": "31.pdf",
+        "images": [
+            "./assets/pdf_images/31/31_page_1.png"
+        ]
+    },
+    {
+        "file": "32.pdf",
+        "images": [
+            "./assets/pdf_images/32/32_page_1.png",
+            "./assets/pdf_images/32/32_page_2.png",
+            "./assets/pdf_images/32/32_page_3.png",
+            "./assets/pdf_images/32/32_page_4.png",
+            "./assets/pdf_images/32/32_page_5.png",
+            "./assets/pdf_images/32/32_page_6.png",
+            "./assets/pdf_images/32/32_page_7.png",
+            "./assets/pdf_images/32/32_page_8.png",
+            "./assets/pdf_images/32/32_page_9.png",
+            "./assets/pdf_images/32/32_page_10.png",
+            "./assets/pdf_images/32/32_page_11.png",
+            "./assets/pdf_images/32/32_page_12.png",
+            "./assets/pdf_images/32/32_page_13.png",
+            "./assets/pdf_images/32/32_page_14.png",
+            "./assets/pdf_images/32/32_page_15.png",
+            "./assets/pdf_images/32/32_page_16.png",
+            "./assets/pdf_images/32/32_page_17.png",
+            "./assets/pdf_images/32/32_page_18.png",
+            "./assets/pdf_images/32/32_page_19.png",
+            "./assets/pdf_images/32/32_page_20.png",
+            "./assets/pdf_images/32/32_page_21.png",
+            "./assets/pdf_images/32/32_page_22.png",
+            "./assets/pdf_images/32/32_page_23.png",
+            "./assets/pdf_images/32/32_page_24.png",
+            "./assets/pdf_images/32/32_page_25.png",
+            "./assets/pdf_images/32/32_page_26.png",
+            "./assets/pdf_images/32/32_page_27.png",
+            "./assets/pdf_images/32/32_page_28.png",
+            "./assets/pdf_images/32/32_page_29.png",
+            "./assets/pdf_images/32/32_page_30.png",
+            "./assets/pdf_images/32/32_page_31.png",
+            "./assets/pdf_images/32/32_page_32.png",
+            "./assets/pdf_images/32/32_page_33.png",
+            "./assets/pdf_images/32/32_page_34.png",
+            "./assets/pdf_images/32/32_page_35.png",
+            "./assets/pdf_images/32/32_page_36.png",
+            "./assets/pdf_images/32/32_page_37.png",
+            "./assets/pdf_images/32/32_page_38.png",
+            "./assets/pdf_images/32/32_page_39.png",
+            "./assets/pdf_images/32/32_page_40.png",
+            "./assets/pdf_images/32/32_page_41.png",
+            "./assets/pdf_images/32/32_page_42.png",
+            "./assets/pdf_images/32/32_page_43.png",
+            "./assets/pdf_images/32/32_page_44.png",
+            "./assets/pdf_images/32/32_page_45.png",
+            "./assets/pdf_images/32/32_page_46.png",
+            "./assets/pdf_images/32/32_page_47.png",
+            "./assets/pdf_images/32/32_page_48.png",
+            "./assets/pdf_images/32/32_page_49.png",
+            "./assets/pdf_images/32/32_page_50.png",
+            "./assets/pdf_images/32/32_page_51.png",
+            "./assets/pdf_images/32/32_page_52.png",
+            "./assets/pdf_images/32/32_page_53.png",
+            "./assets/pdf_images/32/32_page_54.png",
+            "./assets/pdf_images/32/32_page_55.png",
+            "./assets/pdf_images/32/32_page_56.png",
+            "./assets/pdf_images/32/32_page_57.png",
+            "./assets/pdf_images/32/32_page_58.png",
+            "./assets/pdf_images/32/32_page_59.png",
+            "./assets/pdf_images/32/32_page_60.png",
+            "./assets/pdf_images/32/32_page_61.png",
+            "./assets/pdf_images/32/32_page_62.png",
+            "./assets/pdf_images/32/32_page_63.png",
+            "./assets/pdf_images/32/32_page_64.png",
+            "./assets/pdf_images/32/32_page_65.png",
+            "./assets/pdf_images/32/32_page_66.png",
+            "./assets/pdf_images/32/32_page_67.png"
+        ]
+    },
+    {
+        "file": "33.pdf",
+        "images": [
+            "./assets/pdf_images/33/33_page_1.png"
+        ]
+    },
+    {
+        "file": "34.pdf",
+        "images": [
+            "./assets/pdf_images/34/34_page_1.png"
+        ]
+    },
+    {
+        "file": "35.pdf",
+        "images": [
+            "./assets/pdf_images/35/35_page_1.png",
+            "./assets/pdf_images/35/35_page_2.png"
+        ]
+    },
+    {
+        "file": "36.pdf",
+        "images": [
+            "./assets/pdf_images/36/36_page_1.png"
+        ]
+    },
+    {
+        "file": "37.pdf",
+        "images": [
+            "./assets/pdf_images/37/37_page_1.png",
+            "./assets/pdf_images/37/37_page_2.png"
+        ]
+    },
+    {
+        "file": "4.pdf",
+        "images": [
+            "./assets/pdf_images/4/4_page_1.png",
+            "./assets/pdf_images/4/4_page_2.png"
+        ]
+    },
+    {
+        "file": "5.pdf",
+        "images": [
+            "./assets/pdf_images/5/5_page_1.png"
+        ]
+    },
+    {
+        "file": "6.pdf",
+        "images": [
+            "./assets/pdf_images/6/6_page_1.png",
+            "./assets/pdf_images/6/6_page_2.png",
+            "./assets/pdf_images/6/6_page_3.png",
+            "./assets/pdf_images/6/6_page_4.png"
+        ]
+    },
+    {
+        "file": "7.pdf",
+        "images": [
+            "./assets/pdf_images/7/7_page_1.png"
+        ]
+    },
+    {
+        "file": "8.pdf",
+        "images": [
+            "./assets/pdf_images/8/8_page_1.png"
+        ]
+    },
+    {
+        "file": "9.pdf",
+        "images": [
+            "./assets/pdf_images/9/9_page_1.png"
+        ]
+    }
+]
